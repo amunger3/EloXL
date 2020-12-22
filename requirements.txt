@@ -4,11 +4,13 @@ beautifulsoup4==4.9.3
 bleach==3.2.1
 Brotli==1.0.9
 certifi==2020.12.5
+cffi==1.14.4
 chardet==4.0.0
 click==7.1.2
 colorama==0.4.4
 coverage==5.3.1
 coveralls==2.2.0
+cryptography==3.3.1
 cycler==0.10.0
 dash==1.18.1
 dash-bootstrap-components==0.11.1
@@ -53,6 +55,7 @@ pluggy==0.13.1
 ppscore==1.1.1
 py==1.10.0
 pycodestyle==2.6.0
+pycparser==2.20
 pyflakes==2.2.0
 Pygments==2.7.3
 pyjsparser==2.7.1
