@@ -1,0 +1,35 @@
+# Excel-Generated files
+~*
+
+# Python-generated files and folders
+*.py[cod]
+__pycache__
+build/
+dist/
+
+# Environment files and folders
+env
+venv
+*.env
+
+# Composer -> ./vendor/
+vendor
+
+# npm -> ./node_modules/
+node_modules
+
+# Logs
+*.log
+
+# PDFTeX Files
+*-blx.bib
+*.aux
+*.bbl
+*.blg
+*.run.xml
+*.fdb*
+*.fls
+*.out
+*.synctex.gz
+*.pdf
+*.xdv
