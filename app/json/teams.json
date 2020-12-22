@@ -1,0 +1,3703 @@
+{
+    "2024": {
+        "count": 24,
+        "filters": {},
+        "competition": {
+            "id": 2024,
+            "area": {
+                "id": 2011,
+                "name": "Argentina"
+            },
+            "name": "Superliga Argentina",
+            "code": "ASL",
+            "plan": "TIER_TWO",
+            "lastUpdated": "2020-09-10T13:44:41Z"
+        },
+        "season": {
+            "id": 539,
+            "startDate": "2019-07-27",
+            "endDate": "2020-03-01",
+            "currentMatchday": 22,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 2035,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Aldosivi",
+                "shortName": "Aldosivi",
+                "tla": "ALD",
+                "crestUrl": "https://crests.football-data.org/2035.svg",
+                "address": "Avenida de los Trabajadores 1850 Mar del Plata, Buenos Aires 7600",
+                "phone": "+54 (223) 4844230",
+                "website": "http://www.aldosivi.com",
+                "email": "info@aldosivi.com",
+                "founded": 1913,
+                "clubColors": "Green / Yellow",
+                "venue": "Estadio Jos\u00e9 Mar\u00eda Minella",
+                "lastUpdated": "2020-11-26T02:21:37Z"
+            },
+            {
+                "id": 2051,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "Estudiantes de La Plata",
+                "shortName": "Estudiantes LP",
+                "tla": "EST",
+                "crestUrl": "https://crests.football-data.org/2051.svg",
+                "address": "Calle 53 N\u00b0 620 La Plata, Buenos Aires 1900",
+                "phone": "+54 (221) 4255716",
+                "website": "http://www.estudiantesdelaplata.com",
+                "email": "info@estudiantesdelaplata.com",
+                "founded": 1905,
+                "clubColors": "Red / White / Black",
+                "venue": "Estadio Jorge Luis Hirschi",
+                "lastUpdated": "2020-11-26T02:21:40Z"
+            },
+            {
+                "id": 2058,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "AA Argentinos Juniors",
+                "shortName": "Argentinos Jrs",
+                "tla": "AAJ",
+                "crestUrl": "https://crests.football-data.org/2058.svg",
+                "address": "Punta Arenas 1271, La Paternal Buenos Aires, Buenos Aires 1427",
+                "phone": "+54 (11) 45516887",
+                "website": "http://www.argentinosjuniors.com.ar",
+                "email": "info@argentinosjuniors.com.ar",
+                "founded": 1904,
+                "clubColors": "Red / White",
+                "venue": "Estadio Diego Armando Maradona",
+                "lastUpdated": "2020-11-26T02:21:43Z"
+            },
+            {
+                "id": 2059,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Banfield",
+                "shortName": "Banfield",
+                "tla": "BAN",
+                "crestUrl": "https://crests.football-data.org/2059.svg",
+                "address": "Valent\u00edn Vergara 1635/55 Banfield, Buenos Aires 1828",
+                "phone": "+54 (11) 42421209",
+                "website": "http://www.clubabanfield.com.ar",
+                "email": "info@clubabanfield.com.ar",
+                "founded": 1896,
+                "clubColors": "Green / White",
+                "venue": "Estadio Florencio Sol\u00e1",
+                "lastUpdated": "2020-11-26T02:21:46Z"
+            },
+            {
+                "id": 2061,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Boca Juniors",
+                "shortName": "Boca Juniors",
+                "tla": "BOC",
+                "crestUrl": "https://crests.football-data.org/2061.svg",
+                "address": "Brandsen 805, La Boca Buenos Aires, Buenos Aires 1161",
+                "phone": "+54 (11) 43094700",
+                "website": "http://www.bocajuniors.com.ar",
+                "email": "cas@bocajuniors.com.ar",
+                "founded": 1905,
+                "clubColors": "Dark Blue / Yellow",
+                "venue": "Estadio Alberto Jos\u00e9 Armando",
+                "lastUpdated": "2020-11-26T02:21:48Z"
+            },
+            {
+                "id": 2063,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Col\u00f3n",
+                "shortName": "Col\u00f3n",
+                "tla": "COL",
+                "crestUrl": "https://crests.football-data.org/2063.svg",
+                "address": "Avenida Juan Jos\u00e9 Paso 3535 Santa Fe, Santa Fe 3000",
+                "phone": "+54 (342) 4598025",
+                "website": "http://www.clubcolon.com.ar",
+                "email": "contacto@clubcolon.com.ar",
+                "founded": 1905,
+                "clubColors": "Black / Red",
+                "venue": "Estadio Brigadier General Estanislao L\u00f3pez",
+                "lastUpdated": "2020-11-26T02:21:50Z"
+            },
+            {
+                "id": 2064,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Hurac\u00e1n",
+                "shortName": "Hurac\u00e1n BA",
+                "tla": "HUR",
+                "crestUrl": "https://crests.football-data.org/2064.svg",
+                "address": "Avenida Caseros 3159, Parque Patricios Buenos Aires, Buenos Aires 1623",
+                "phone": "+54 (11) 49119313",
+                "website": "http://www.cahuracan.com",
+                "email": null,
+                "founded": 1908,
+                "clubColors": "White / Red",
+                "venue": "Estadio Tom\u00e1s Adolfo Duc\u00f3",
+                "lastUpdated": "2020-11-26T02:21:53Z"
+            },
+            {
+                "id": 2066,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Lan\u00fas",
+                "shortName": "Lan\u00fas",
+                "tla": "LAN",
+                "crestUrl": "https://crests.football-data.org/2066.svg",
+                "address": "Avenida 9. de Julio 1680 Lan\u00fas, Buenos Aires 1824",
+                "phone": "+54 (11) 42414239",
+                "website": "http://www.clublanus.com",
+                "email": "info@clublanus.com",
+                "founded": 1915,
+                "clubColors": "Maroon / White",
+                "venue": "Estadio Ciudad de Lan\u00fas",
+                "lastUpdated": "2020-11-26T02:21:56Z"
+            },
+            {
+                "id": 2067,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Newell's Old Boys",
+                "shortName": "Newell's OB",
+                "tla": "NEW",
+                "crestUrl": "https://crests.football-data.org/2067.svg",
+                "address": "Parque Independencia S/N Rosario, Santa Fe 2000",
+                "phone": "+54 (341) 4254422",
+                "website": "http://www.newellsoldboys.com.ar",
+                "email": "contacto@newellsoldboys.com.ar",
+                "founded": 1903,
+                "clubColors": "Red / Black",
+                "venue": "Estadio Marcelo Alberto Bielsa",
+                "lastUpdated": "2020-11-26T02:22:00Z"
+            },
+            {
+                "id": 2068,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Patronato",
+                "shortName": "Patronato",
+                "tla": "PAT",
+                "crestUrl": "https://crests.football-data.org/2068.svg",
+                "address": "Padre Bartolom\u00e9 Grella 874 Paran\u00e1, Entre R\u00edos 3100",
+                "phone": "+54 (34) 34243766",
+                "website": "http://www.cpatronato.com.ar",
+                "email": "prensaclubpatronato@hotmail.com",
+                "founded": 1914,
+                "clubColors": "Red / Black",
+                "venue": "Estadio Presb\u00edtero Bartolom\u00e9 Grella",
+                "lastUpdated": "2020-11-26T02:22:03Z"
+            },
+            {
+                "id": 2070,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Rosario Central",
+                "shortName": "Rosario",
+                "tla": "ROS",
+                "crestUrl": "https://crests.football-data.org/2070.svg",
+                "address": "Calle General Mitre 853 Rosario, Santa Fe 2000",
+                "phone": "+54 (341) 4210000",
+                "website": "http://www.rosariocentral.com",
+                "email": "contactos@rosariocentral.com",
+                "founded": 1889,
+                "clubColors": "Dark Blue / Yellow",
+                "venue": "Estadio Dr. Lisandro de la Torre",
+                "lastUpdated": "2020-11-26T02:22:06Z"
+            },
+            {
+                "id": 2071,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA San Lorenzo de Almagro",
+                "shortName": "San Lorenzo",
+                "tla": "SLO",
+                "crestUrl": "https://crests.football-data.org/2071.svg",
+                "address": "null San Lorenzo null",
+                "phone": null,
+                "website": "https://www.sanlorenzo.com.ar/basquet/",
+                "email": null,
+                "founded": 1935,
+                "clubColors": "Blue / Red",
+                "venue": "Estadio Pedro Bidega\u00edn",
+                "lastUpdated": "2020-11-26T02:22:09Z"
+            },
+            {
+                "id": 2073,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Talleres",
+                "shortName": "Talleres",
+                "tla": "TAL",
+                "crestUrl": "https://crests.football-data.org/2073.svg",
+                "address": "Avenida Rosario de Santa Fe, 15 C\u00f3rdoba, C\u00f3rdoba 5000",
+                "phone": "+54 (351) 4812829",
+                "website": "http://www.talleresdecordoba.com.ar",
+                "email": "info@talleresdecordoba.com.ar",
+                "founded": 1913,
+                "clubColors": "Blue / White",
+                "venue": "Estadio Mario Alberto Kempes",
+                "lastUpdated": "2020-11-26T02:22:12Z"
+            },
+            {
+                "id": 2076,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Tucum\u00e1n",
+                "shortName": "Tucum\u00e1n",
+                "tla": "CAT",
+                "crestUrl": "https://crests.football-data.org/2076.svg",
+                "address": "25 de Mayo 1351 San Miguel de Tucum\u00e1n, Tucum\u00e1n 4107",
+                "phone": "+54 (38) 14977700",
+                "website": "http://www.atleticotucuman.com.ar",
+                "email": "prensa@atleticotucuman.com.ar",
+                "founded": 1902,
+                "clubColors": "Sky Blue / White",
+                "venue": "Estadio Monumental Presidente Jos\u00e9 Fierro",
+                "lastUpdated": "2020-11-26T02:22:14Z"
+            },
+            {
+                "id": 2077,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Uni\u00f3n",
+                "shortName": "Uni\u00f3n SF",
+                "tla": "UNI",
+                "crestUrl": "https://crests.football-data.org/2077.svg",
+                "address": "Avenida L\u00f3pez y Planes 3513 Santa Fe, Santa Fe 3000",
+                "phone": "+54 (342) 4539429",
+                "website": "http://www.clubaunion.com.ar",
+                "email": "prensa@clubaunion.com.ar",
+                "founded": 1907,
+                "clubColors": "Red / White",
+                "venue": "Estadio 15 de Abril",
+                "lastUpdated": "2020-11-26T02:22:17Z"
+            },
+            {
+                "id": 2078,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA V\u00e9lez Sarsfield",
+                "shortName": "V\u00e9lez",
+                "tla": "VEL",
+                "crestUrl": "https://crests.football-data.org/2078.svg",
+                "address": "Avenida Juan B. Justo 9200 Buenos Aires, Buenos Aires 1408",
+                "phone": "+54 (11) 46415663",
+                "website": "http://www.velezsarsfield.com.ar",
+                "email": "prensa@velezsarsfield.com.ar",
+                "founded": 1910,
+                "clubColors": "White / Blue",
+                "venue": "Estadio Jos\u00e9 Amalfitani",
+                "lastUpdated": "2020-11-26T02:22:22Z"
+            },
+            {
+                "id": 2079,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CD Godoy Cruz Antonio Tomba",
+                "shortName": "Godoy Cruz",
+                "tla": "GOD",
+                "crestUrl": "https://crests.football-data.org/2079.svg",
+                "address": "Calle Balcarce 477 Godoy Cruz, Mendoza 5501",
+                "phone": "+54 (261) 5248096",
+                "website": "http://www.clubgodoycruz.com.ar",
+                "email": "secretariaclub@clubgodoycruz.com.ar",
+                "founded": 1921,
+                "clubColors": "Blue / White",
+                "venue": null,
+                "lastUpdated": "2020-10-29T02:15:35Z"
+            },
+            {
+                "id": 2081,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CSyD Defensa y Justicia",
+                "shortName": "Defensa",
+                "tla": "DEF",
+                "crestUrl": "https://crests.football-data.org/2081.svg",
+                "address": "Avenida San Mart\u00edn 360 Florencio Varela, Buenos Aires 1888",
+                "phone": "+54 (11) 42372327",
+                "website": "http://www.defensayjusticia.org.ar",
+                "email": "prensa@defensayjusticia.org.ar",
+                "founded": 1935,
+                "clubColors": "Yellow / Green",
+                "venue": "Estadio Norberto Tito Tomaghello",
+                "lastUpdated": "2020-10-29T02:15:36Z"
+            },
+            {
+                "id": 2082,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "Gimnasia y Esgrima de La Plata",
+                "shortName": "Gimnasia LP",
+                "tla": "GIM",
+                "crestUrl": "https://crests.football-data.org/2082.svg",
+                "address": "Calle 4 e/ 51 y 53 N\u00ba 979 La Plata, Buenos Aires 1900",
+                "phone": "+54 (221) 4222510",
+                "website": "http://www.gimnasia.org.ar",
+                "email": "contacto@gimnasia.org.ar",
+                "founded": 1887,
+                "clubColors": "White / Blue",
+                "venue": null,
+                "lastUpdated": "2020-10-29T02:15:40Z"
+            },
+            {
+                "id": 6667,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA River Plate",
+                "shortName": "River Plate",
+                "tla": "RIV",
+                "crestUrl": "https://crests.football-data.org/6667.svg",
+                "address": "Avenida Pres. Figueroa Alcorta 7597 Buenos Aires, Buenos Aires 1424",
+                "phone": "+54 (11) 47891200",
+                "website": "http://www.cariverplate.com.ar",
+                "email": "club@cariverplate.com.ar",
+                "founded": 1901,
+                "clubColors": "Red / White",
+                "venue": "Estadio Monumental Antonio Vespucio Liberti",
+                "lastUpdated": "2020-10-29T02:15:42Z"
+            },
+            {
+                "id": 6802,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Independiente",
+                "shortName": "Independiente",
+                "tla": "IND",
+                "crestUrl": "https://crests.football-data.org/6802.svg",
+                "address": "Avenida Bartolom\u00e9 Mitre 470 Avellaneda, Buenos Aires 1870",
+                "phone": "+54 (11) 42297600",
+                "website": "http://www.clubaindependiente.com",
+                "email": "avellaneda@clubaindependiente.com",
+                "founded": 1905,
+                "clubColors": "Red / Blue",
+                "venue": null,
+                "lastUpdated": "2020-10-29T02:15:43Z"
+            },
+            {
+                "id": 6803,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "Racing Club",
+                "shortName": "Racing Club",
+                "tla": "RAC",
+                "crestUrl": "https://crests.football-data.org/6803.svg",
+                "address": "Avenida Bartolom\u00e9 Mitre 934 Avellaneda, Buenos Aires 1870",
+                "phone": "+54 (11) 42291300",
+                "website": "http://www.racingclub.com.ar",
+                "email": "sedeavellaneda@racingclub.com",
+                "founded": 1903,
+                "clubColors": "Blue / White",
+                "venue": "Estadio Presidente Juan Domingo Per\u00f3n",
+                "lastUpdated": "2020-10-29T02:15:45Z"
+            },
+            {
+                "id": 6804,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "Arsenal FC",
+                "shortName": "Arsenal",
+                "tla": "ARS",
+                "crestUrl": "https://crests.football-data.org/6804.svg",
+                "address": "Julio Humberto Grondona 3660 Sarand\u00ed, Buenos Aires 1872",
+                "phone": "+54 (11) 42040755",
+                "website": "http://www.celesteyrojo.com.ar",
+                "email": "staff@celesteyrojo.com.ar",
+                "founded": 1957,
+                "clubColors": "Sky Blue / Red",
+                "venue": null,
+                "lastUpdated": "2020-10-29T02:15:47Z"
+            },
+            {
+                "id": 7582,
+                "area": {
+                    "id": 2011,
+                    "name": "Argentina"
+                },
+                "name": "CA Central C\u00f3rdoba",
+                "shortName": "C\u00f3rdoba SdE",
+                "tla": "CAC",
+                "crestUrl": "https://crests.football-data.org/7582.svg",
+                "address": "Granadero Saavedra 250 Santiago del Estero, Santiago del Estero 4200",
+                "phone": null,
+                "website": "http://www.ferrodemivida.com/",
+                "email": null,
+                "founded": 1919,
+                "clubColors": "Black / White",
+                "venue": null,
+                "lastUpdated": "2020-10-29T02:15:49Z"
+            }
+        ]
+    },
+    "2021": {
+        "count": 20,
+        "filters": {},
+        "competition": {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-08T03:00:04Z"
+        },
+        "season": {
+            "id": 619,
+            "startDate": "2020-09-12",
+            "endDate": "2021-05-23",
+            "currentMatchday": 11,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 57,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Arsenal FC",
+                "shortName": "Arsenal",
+                "tla": "ARS",
+                "crestUrl": "https://crests.football-data.org/57.svg",
+                "address": "75 Drayton Park London N5 1BU",
+                "phone": "+44 (020) 76195003",
+                "website": "http://www.arsenal.com",
+                "email": "info@arsenal.co.uk",
+                "founded": 1886,
+                "clubColors": "Red / White",
+                "venue": "Emirates Stadium",
+                "lastUpdated": "2020-11-26T02:15:20Z"
+            },
+            {
+                "id": 58,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Aston Villa FC",
+                "shortName": "Aston Villa",
+                "tla": "AST",
+                "crestUrl": "https://crests.football-data.org/58.svg",
+                "address": "Villa Park Birmingham B6 6HE",
+                "phone": "+44 (0121) 3272299",
+                "website": "http://www.avfc.co.uk",
+                "email": null,
+                "founded": 1872,
+                "clubColors": "Claret / Sky Blue",
+                "venue": "Villa Park",
+                "lastUpdated": "2020-11-26T02:20:23Z"
+            },
+            {
+                "id": 61,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Chelsea FC",
+                "shortName": "Chelsea",
+                "tla": "CHE",
+                "crestUrl": "https://crests.football-data.org/61.svg",
+                "address": "Fulham Road London SW6 1HS",
+                "phone": "+44 (0871) 9841955",
+                "website": "http://www.chelseafc.com",
+                "email": null,
+                "founded": 1905,
+                "clubColors": "Royal Blue / White",
+                "venue": "Stamford Bridge",
+                "lastUpdated": "2020-11-26T02:14:18Z"
+            },
+            {
+                "id": 62,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Everton FC",
+                "shortName": "Everton",
+                "tla": "EVE",
+                "crestUrl": "https://crests.football-data.org/62.svg",
+                "address": "Goodison Park Liverpool L4 4EL",
+                "phone": "+44 (0871) 6631878",
+                "website": "http://www.evertonfc.com",
+                "email": "everton@evertonfc.com",
+                "founded": 1878,
+                "clubColors": "Blue / White",
+                "venue": "Goodison Park",
+                "lastUpdated": "2020-11-26T02:14:19Z"
+            },
+            {
+                "id": 63,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Fulham FC",
+                "shortName": "Fulham",
+                "tla": "FUL",
+                "crestUrl": "https://crests.football-data.org/63.svg",
+                "address": "Craven Cottage, Stevenage Road London SW6 6HH",
+                "phone": "+44 (0870) 4421222",
+                "website": "http://www.fulhamfc.com",
+                "email": "enquiries@fulhamfc.com",
+                "founded": 1879,
+                "clubColors": "White / Black",
+                "venue": "Craven Cottage",
+                "lastUpdated": "2020-11-26T02:14:21Z"
+            },
+            {
+                "id": 64,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Liverpool FC",
+                "shortName": "Liverpool",
+                "tla": "LIV",
+                "crestUrl": "https://crests.football-data.org/64.svg",
+                "address": "Anfield Road Liverpool L4 0TH",
+                "phone": "+44 (0844) 4993000",
+                "website": "http://www.liverpoolfc.tv",
+                "email": "customercontact@liverpoolfc.tv",
+                "founded": 1892,
+                "clubColors": "Red / White",
+                "venue": "Anfield",
+                "lastUpdated": "2020-11-20T09:46:14Z"
+            },
+            {
+                "id": 65,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Manchester City FC",
+                "shortName": "Man City",
+                "tla": "MCI",
+                "crestUrl": "https://crests.football-data.org/65.svg",
+                "address": "SportCity Manchester M11 3FF",
+                "phone": "+44 (0870) 0621894",
+                "website": "https://www.mancity.com",
+                "email": "mancity@mancity.com",
+                "founded": 1880,
+                "clubColors": "Sky Blue / White",
+                "venue": "Etihad Stadium",
+                "lastUpdated": "2020-11-26T02:14:21Z"
+            },
+            {
+                "id": 66,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Manchester United FC",
+                "shortName": "Man United",
+                "tla": "MUN",
+                "crestUrl": "https://crests.football-data.org/66.svg",
+                "address": "Sir Matt Busby Way Manchester M16 0RA",
+                "phone": "+44 (0161) 8688000",
+                "website": "http://www.manutd.com",
+                "email": "enquiries@manutd.co.uk",
+                "founded": 1878,
+                "clubColors": "Red / White",
+                "venue": "Old Trafford",
+                "lastUpdated": "2020-11-26T02:14:23Z"
+            },
+            {
+                "id": 67,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Newcastle United FC",
+                "shortName": "Newcastle",
+                "tla": "NEW",
+                "crestUrl": "https://crests.football-data.org/67.svg",
+                "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+                "phone": null,
+                "website": "http://www.nufc.co.uk",
+                "email": "admin@nufc.co.uk",
+                "founded": 1881,
+                "clubColors": "Black / White",
+                "venue": "St. James' Park",
+                "lastUpdated": "2020-11-26T02:14:26Z"
+            },
+            {
+                "id": 73,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Tottenham Hotspur FC",
+                "shortName": "Tottenham",
+                "tla": "TOT",
+                "crestUrl": "https://crests.football-data.org/73.svg",
+                "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
+                "phone": "+44 (0844) 4995000",
+                "website": "http://www.tottenhamhotspur.com",
+                "email": "customer.care@tottenhamhotspur.com",
+                "founded": 1882,
+                "clubColors": "Navy Blue / White",
+                "venue": "Tottenham Hotspur Stadium",
+                "lastUpdated": "2020-11-20T07:12:32Z"
+            },
+            {
+                "id": 74,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "West Bromwich Albion FC",
+                "shortName": "West Brom",
+                "tla": "WBA",
+                "crestUrl": "https://crests.football-data.org/74.svg",
+                "address": "The Hawthorns West Bromwich B71 4LF",
+                "phone": null,
+                "website": "http://www.wba.co.uk",
+                "email": "enquiries@wbafc.co.uk",
+                "founded": 1879,
+                "clubColors": "White / Navy Blue",
+                "venue": "The Hawthorns",
+                "lastUpdated": "2020-11-26T02:14:27Z"
+            },
+            {
+                "id": 76,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Wolverhampton Wanderers FC",
+                "shortName": "Wolverhampton",
+                "tla": "WOL",
+                "crestUrl": "https://crests.football-data.org/76.svg",
+                "address": "Waterloo Road Wolverhampton WV1 4QR",
+                "phone": "+44 (0871) 2222220",
+                "website": "http://www.wolves.co.uk",
+                "email": "info@wolves.co.uk",
+                "founded": 1877,
+                "clubColors": "Black / Gold",
+                "venue": "Molineux Stadium",
+                "lastUpdated": "2020-11-26T02:14:28Z"
+            },
+            {
+                "id": 328,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Burnley FC",
+                "shortName": "Burnley",
+                "tla": "BUR",
+                "crestUrl": "https://crests.football-data.org/328.svg",
+                "address": "Harry Potts Way Burnley BB10 4BX",
+                "phone": "+44 (0871) 2211882",
+                "website": "http://www.burnleyfootballclub.com",
+                "email": "info@burnleyfc.com",
+                "founded": 1881,
+                "clubColors": "Claret / Sky Blue",
+                "venue": "Turf Moor",
+                "lastUpdated": "2020-11-26T02:14:29Z"
+            },
+            {
+                "id": 338,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Leicester City FC",
+                "shortName": "Leicester City",
+                "tla": "LEI",
+                "crestUrl": "https://crests.football-data.org/338.svg",
+                "address": "The Walkers Stadium, Filbert Way Leicester LE2 7FL",
+                "phone": "+44 (0844) 8156000",
+                "website": "http://www.lcfc.com",
+                "email": null,
+                "founded": 1884,
+                "clubColors": "Royal Blue / White",
+                "venue": "King Power Stadium",
+                "lastUpdated": "2020-11-26T02:14:30Z"
+            },
+            {
+                "id": 340,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Southampton FC",
+                "shortName": "Southampton",
+                "tla": "SOU",
+                "crestUrl": "https://crests.football-data.org/340.svg",
+                "address": "Britannia Road Southampton SO14 5FP",
+                "phone": null,
+                "website": "http://www.saintsfc.co.uk",
+                "email": "sfc@saintsfc.co.uk",
+                "founded": 1885,
+                "clubColors": "Red / White / Black",
+                "venue": "St. Mary's Stadium",
+                "lastUpdated": "2020-11-26T02:14:31Z"
+            },
+            {
+                "id": 341,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Leeds United FC",
+                "shortName": "Leeds United",
+                "tla": "LEE",
+                "crestUrl": "https://crests.football-data.org/341.svg",
+                "address": "Elland Road Leeds LS11 0ES",
+                "phone": "+44 (0871) 3341919",
+                "website": "http://www.leedsunited.com",
+                "email": "reception@leedsunited.com",
+                "founded": 1904,
+                "clubColors": "White / Blue",
+                "venue": "Elland Road",
+                "lastUpdated": "2020-11-26T02:14:32Z"
+            },
+            {
+                "id": 354,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Crystal Palace FC",
+                "shortName": "Crystal Palace",
+                "tla": "CRY",
+                "crestUrl": "https://crests.football-data.org/354.svg",
+                "address": "Whitehorse Lane London SE25 6PU",
+                "phone": "+44 (020) 87686000",
+                "website": "http://www.cpfc.co.uk",
+                "email": "info@cpfc.co.uk",
+                "founded": 1905,
+                "clubColors": "Red / Blue",
+                "venue": "Selhurst Park",
+                "lastUpdated": "2020-11-26T02:14:34Z"
+            },
+            {
+                "id": 356,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Sheffield United FC",
+                "shortName": "Sheffield Utd",
+                "tla": "SHE",
+                "crestUrl": "https://crests.football-data.org/356.svg",
+                "address": "Bramall Lane Sheffield, Yorkshire S2 4SU",
+                "phone": "+44 (0871) 9951899",
+                "website": "http://www.sufc.co.uk",
+                "email": "info@sufc.co.uk",
+                "founded": null,
+                "clubColors": "Red / White / Black",
+                "venue": "Bramall Lane",
+                "lastUpdated": "2020-11-26T02:14:35Z"
+            },
+            {
+                "id": 397,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Brighton & Hove Albion FC",
+                "shortName": "Brighton Hove",
+                "tla": "BHA",
+                "crestUrl": "https://crests.football-data.org/397.svg",
+                "address": "44 North Road Brighton & Hove BN1 1YR",
+                "phone": "+44 (01273) 878288",
+                "website": "http://www.seagulls.co.uk",
+                "email": "seagulls@bhafc.co.uk",
+                "founded": 1898,
+                "clubColors": "Blue / White",
+                "venue": "The American Express Community Stadium",
+                "lastUpdated": "2020-11-26T02:14:35Z"
+            },
+            {
+                "id": 563,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "West Ham United FC",
+                "shortName": "West Ham",
+                "tla": "WHU",
+                "crestUrl": "https://crests.football-data.org/563.svg",
+                "address": "Queen Elizabeth Olympic Park, London London E20 2ST",
+                "phone": "+44 (020) 85482794",
+                "website": "http://www.whufc.com",
+                "email": "yourcomments@westhamunited.co.uk",
+                "founded": 1895,
+                "clubColors": "Claret / Sky Blue",
+                "venue": "London Stadium",
+                "lastUpdated": "2020-11-20T07:14:05Z"
+            }
+        ]
+    },
+    "2016": {
+        "count": 24,
+        "filters": {},
+        "competition": {
+            "id": 2016,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Championship",
+            "code": "ELC",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-09T22:45:59Z"
+        },
+        "season": {
+            "id": 628,
+            "startDate": "2020-09-12",
+            "endDate": "2021-08-04",
+            "currentMatchday": 17,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 59,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Blackburn Rovers FC",
+                "shortName": "Blackburn",
+                "tla": "BBR",
+                "crestUrl": "https://crests.football-data.org/59.svg",
+                "address": "Ewood Park Blackburn BB2 4JF",
+                "phone": "+44 (0871) 7021875",
+                "website": "http://www.rovers.co.uk",
+                "email": null,
+                "founded": 1874,
+                "clubColors": "Blue / White",
+                "venue": "Ewood Park",
+                "lastUpdated": "2020-11-26T02:16:34Z"
+            },
+            {
+                "id": 68,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Norwich City FC",
+                "shortName": "Norwich",
+                "tla": "NOR",
+                "crestUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Norwich_City.svg",
+                "address": "Carrow Road Norwich NR1 1JE",
+                "phone": null,
+                "website": "http://www.canaries.co.uk",
+                "email": "reception@ncfc-canaries.co.uk",
+                "founded": 1902,
+                "clubColors": "Yellow / Green",
+                "venue": "Carrow Road",
+                "lastUpdated": "2020-11-26T02:16:36Z"
+            },
+            {
+                "id": 69,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Queens Park Rangers FC",
+                "shortName": "QPR",
+                "tla": "QPR",
+                "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d4/Queens_Park_Rangers.svg",
+                "address": "South Africa Road, Shepherds Bush London W12 7PA",
+                "phone": null,
+                "website": "http://www.qpr.co.uk",
+                "email": "qpr@qpr.co.uk",
+                "founded": 1882,
+                "clubColors": "Blue / White",
+                "venue": "Kiyan Prince Foundation Stadium",
+                "lastUpdated": "2020-11-26T02:16:38Z"
+            },
+            {
+                "id": 70,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Stoke City FC",
+                "shortName": "Stoke",
+                "tla": "STO",
+                "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg",
+                "address": "Stanley Matthews Way Stoke-on-Trent ST4 4EG",
+                "phone": "+44 (0871) 6632008",
+                "website": "http://www.stokecityfc.com",
+                "email": "info@stokecityfc.com",
+                "founded": 1863,
+                "clubColors": "Red / White",
+                "venue": "Bet365 Stadium",
+                "lastUpdated": "2020-11-26T02:16:39Z"
+            },
+            {
+                "id": 72,
+                "area": {
+                    "id": 2264,
+                    "name": "Wales"
+                },
+                "name": "Swansea City AFC",
+                "shortName": "Swansea",
+                "tla": "SWA",
+                "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg",
+                "address": "Liberty Stadium, Landore Swansea, Glamorgan SA1 2FA",
+                "phone": "+44 (01792) 616600",
+                "website": "http://www.swanseacity.net",
+                "email": "info@swanseacityfc.co.uk",
+                "founded": 1912,
+                "clubColors": "White / Black",
+                "venue": "Liberty Stadium",
+                "lastUpdated": "2020-11-26T02:16:40Z"
+            },
+            {
+                "id": 332,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Birmingham City FC",
+                "shortName": "Birmingham",
+                "tla": "BIR",
+                "crestUrl": "https://crests.football-data.org/332.svg",
+                "address": "St. Andrew's Stadium Birmingham B9 4RL",
+                "phone": "+44 (0844) 5571875",
+                "website": "http://www.bcfc.com",
+                "email": "reception@bcfc.com",
+                "founded": 1875,
+                "clubColors": "Blue / White",
+                "venue": "St Andrew's Trillion Trophy Stadium",
+                "lastUpdated": "2020-11-26T02:16:42Z"
+            },
+            {
+                "id": 342,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Derby County FC",
+                "shortName": "Derby County",
+                "tla": "DER",
+                "crestUrl": "https://crests.football-data.org/342.svg",
+                "address": "Pride Park Derby DE24 8XL",
+                "phone": "+44 (0871) 4721884",
+                "website": "http://www.dcfc.co.uk",
+                "email": "derbycounty@dcfc.co.uk",
+                "founded": 1884,
+                "clubColors": "White / Black",
+                "venue": "iPro Stadium",
+                "lastUpdated": "2020-11-26T02:16:43Z"
+            },
+            {
+                "id": 343,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Middlesbrough FC",
+                "shortName": "Middlesbrough",
+                "tla": "MID",
+                "crestUrl": "https://crests.football-data.org/343.svg",
+                "address": "Riverside Stadium Middlesbrough TS3 6RS",
+                "phone": "+44 (0844) 4996789",
+                "website": "http://www.mfc.co.uk",
+                "email": "enquiries@mfc.co.uk",
+                "founded": 1876,
+                "clubColors": "Red / White",
+                "venue": "Riverside Stadium",
+                "lastUpdated": "2020-11-26T02:16:45Z"
+            },
+            {
+                "id": 345,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Sheffield Wednesday FC",
+                "shortName": "Sheffield Wed",
+                "tla": "SWE",
+                "crestUrl": "https://crests.football-data.org/345.svg",
+                "address": "Hillsborough Sheffield, Yorkshire S6 1SW",
+                "phone": "+44 (0871) 9951867",
+                "website": "http://www.swfc.co.uk",
+                "email": "enquiries@swfc.co.uk",
+                "founded": 1820,
+                "clubColors": "Blue / White / Black",
+                "venue": "Hillsborough Stadium",
+                "lastUpdated": "2020-11-26T02:16:46Z"
+            },
+            {
+                "id": 346,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Watford FC",
+                "shortName": "Watford",
+                "tla": "WAT",
+                "crestUrl": "https://crests.football-data.org/346.svg",
+                "address": "Vicarage Road Watford WD18 0ER",
+                "phone": null,
+                "website": "http://www.watfordfc.com",
+                "email": "yourvoice@watfordfc.com",
+                "founded": 1881,
+                "clubColors": "Yellow / Black",
+                "venue": "Vicarage Road Stadium",
+                "lastUpdated": "2020-11-26T02:16:48Z"
+            },
+            {
+                "id": 351,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Nottingham Forest FC",
+                "shortName": "Nottingham",
+                "tla": "NOT",
+                "crestUrl": "https://crests.football-data.org/351.svg",
+                "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
+                "phone": "+44 (0115) 9824444",
+                "website": "http://www.nottinghamforest.co.uk",
+                "email": "enquiries@nottinghamforest.co.uk",
+                "founded": 1865,
+                "clubColors": "Red / White",
+                "venue": "The City Ground",
+                "lastUpdated": "2020-11-26T02:16:50Z"
+            },
+            {
+                "id": 355,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Reading FC",
+                "shortName": "Reading",
+                "tla": "REA",
+                "crestUrl": "https://crests.football-data.org/355.svg",
+                "address": "Junction 11 M4 Reading RG2 0FL",
+                "phone": "+44 (0118) 9681211",
+                "website": "http://www.readingfc.co.uk",
+                "email": "customerservice@readingfc.co.uk",
+                "founded": 1871,
+                "clubColors": "Blue / White",
+                "venue": "Madejski Stadium",
+                "lastUpdated": "2020-11-26T02:16:51Z"
+            },
+            {
+                "id": 357,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Barnsley FC",
+                "shortName": "Barnsley",
+                "tla": "BAR",
+                "crestUrl": "https://crests.football-data.org/357.svg",
+                "address": "Grove Street Barnsley S71 1ET",
+                "phone": "+44 (0122) 6211211",
+                "website": "http://www.barnsleyfc.co.uk",
+                "email": "thereds@barnsleyfc.co.uk",
+                "founded": 1887,
+                "clubColors": "Red / White",
+                "venue": "Oakwell Stadium",
+                "lastUpdated": "2020-09-10T02:39:00Z"
+            },
+            {
+                "id": 384,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Millwall FC",
+                "shortName": "Millwall",
+                "tla": "MIL",
+                "crestUrl": "https://crests.football-data.org/384.svg",
+                "address": "Zampa Road London SE16 3LN",
+                "phone": "+44 (0207) 2321222",
+                "website": "http://www.millwallfc.co.uk",
+                "email": "questions@millwallplc.com",
+                "founded": 1885,
+                "clubColors": "Blue / White",
+                "venue": "The Den",
+                "lastUpdated": "2020-09-10T02:53:41Z"
+            },
+            {
+                "id": 385,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Rotherham United FC",
+                "shortName": "Rotherham Utd",
+                "tla": "ROT",
+                "crestUrl": "https://crests.football-data.org/385.svg",
+                "address": "New York Way Rotherham S60 1AH",
+                "phone": "+44 (08444) 140733",
+                "website": "http://www.themillers.co.uk",
+                "email": "office@rotherhamunited.net",
+                "founded": 1870,
+                "clubColors": "Red / White",
+                "venue": "New York Stadium",
+                "lastUpdated": "2020-09-10T02:39:12Z"
+            },
+            {
+                "id": 387,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Bristol City FC",
+                "shortName": "Bristol City",
+                "tla": "BRI",
+                "crestUrl": "https://crests.football-data.org/387.svg",
+                "address": "Ashton Gate Bristol BS3 2EJ",
+                "phone": "+44 (0117) 9630600",
+                "website": "http://www.bcfc.co.uk",
+                "email": "enquiries@bcfc.co.uk",
+                "founded": 1894,
+                "clubColors": "Red / White",
+                "venue": "Ashton Gate Stadium",
+                "lastUpdated": "2020-09-10T02:39:13Z"
+            },
+            {
+                "id": 389,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Luton Town FC",
+                "shortName": "Luton Town",
+                "tla": "LUT",
+                "crestUrl": "https://crests.football-data.org/389.svg",
+                "address": "1 Maple Road Luton LU4 8AW",
+                "phone": "+44 (01582) 411622",
+                "website": "http://www.lutontown.co.uk",
+                "email": null,
+                "founded": 1885,
+                "clubColors": "White / Navy Blue / Orange",
+                "venue": "Kenilworth Road Stadium",
+                "lastUpdated": "2020-09-10T02:39:14Z"
+            },
+            {
+                "id": 394,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Huddersfield Town AFC",
+                "shortName": "Huddersfield",
+                "tla": "HUD",
+                "crestUrl": "https://crests.football-data.org/394.svg",
+                "address": "Stadium Way Huddersfield HD1 6PX",
+                "phone": "+44 (0148) 4484112",
+                "website": "http://www.htafc.com",
+                "email": "info@htafc.com",
+                "founded": 1908,
+                "clubColors": "Blue / White",
+                "venue": "The John Smith's Stadium",
+                "lastUpdated": "2020-09-10T02:39:16Z"
+            },
+            {
+                "id": 402,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Brentford FC",
+                "shortName": "Brentford",
+                "tla": "BRE",
+                "crestUrl": "https://crests.football-data.org/402.svg",
+                "address": "Braemar Road Brentford TW8 0NT",
+                "phone": null,
+                "website": "http://www.brentfordfc.co.uk",
+                "email": "enquiries@brentfordfc.co.uk",
+                "founded": 1889,
+                "clubColors": "Red / White / Black",
+                "venue": "Griffin Park",
+                "lastUpdated": "2020-09-10T02:53:44Z"
+            },
+            {
+                "id": 715,
+                "area": {
+                    "id": 2264,
+                    "name": "Wales"
+                },
+                "name": "Cardiff City FC",
+                "shortName": "Cardiff",
+                "tla": "CAR",
+                "crestUrl": "https://crests.football-data.org/715.svg",
+                "address": "Cardiff City Stadium, Leckwith Road Cardiff CF11 8AZ",
+                "phone": "+44 (0845) 3651115",
+                "website": "http://www.cardiffcityfc.co.uk",
+                "email": "club@cardiffcityfc.co.uk",
+                "founded": 1899,
+                "clubColors": "Blue / White",
+                "venue": "Cardiff City Stadium",
+                "lastUpdated": "2020-09-10T02:39:29Z"
+            },
+            {
+                "id": 1044,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "AFC Bournemouth",
+                "shortName": "Bournemouth",
+                "tla": "BOU",
+                "crestUrl": "https://crests.football-data.org/1044.svg",
+                "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
+                "phone": "+44 (01202) 726300",
+                "website": "http://www.afcb.co.uk",
+                "email": "admin@afcb.co.uk",
+                "founded": 1890,
+                "clubColors": "Red / Black",
+                "venue": "Vitality Stadium",
+                "lastUpdated": "2020-09-10T02:39:31Z"
+            },
+            {
+                "id": 1076,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Coventry City FC",
+                "shortName": "Coventry City",
+                "tla": "COV",
+                "crestUrl": "https://crests.football-data.org/1076.svg",
+                "address": "Gallagher Retail Park, Stoney Stanton Road Coventry CV6 5QE",
+                "phone": "+44 (0247) 6992326",
+                "website": "http://www.ccfc.co.uk",
+                "email": "info@ccfc.co.uk",
+                "founded": 1883,
+                "clubColors": "Sky Blue / White",
+                "venue": "St Andrew's Trillion Trophy Stadium",
+                "lastUpdated": "2020-09-10T02:39:43Z"
+            },
+            {
+                "id": 1081,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Preston North End FC",
+                "shortName": "Preston NE",
+                "tla": "PNE",
+                "crestUrl": "https://crests.football-data.org/1081.svg",
+                "address": "Sir Tom Finney Way Preston PR1 6RU",
+                "phone": null,
+                "website": "http://www.pnefc.net",
+                "email": "enquiries@pne.com",
+                "founded": 1863,
+                "clubColors": "White / Navy Blue",
+                "venue": "Deepdale Stadium",
+                "lastUpdated": "2020-09-10T02:39:51Z"
+            },
+            {
+                "id": 1146,
+                "area": {
+                    "id": 2072,
+                    "name": "England"
+                },
+                "name": "Wycombe Wanderers FC",
+                "shortName": "Wycombe",
+                "tla": "WYC",
+                "crestUrl": "https://crests.football-data.org/1146.svg",
+                "address": "Hillbottom Road High Wycombe HP12 4HJ",
+                "phone": "+44 (1494) 472100",
+                "website": "http://www.wycombewanderers.co.uk",
+                "email": "wwfc@wwfc.com",
+                "founded": 1887,
+                "clubColors": "Blue",
+                "venue": "Adams Park",
+                "lastUpdated": "2020-09-10T02:54:06Z"
+            }
+        ]
+    },
+    "2015": {
+        "count": 20,
+        "filters": {},
+        "competition": {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-07T18:15:07Z"
+        },
+        "season": {
+            "id": 596,
+            "startDate": "2020-08-22",
+            "endDate": "2021-05-23",
+            "currentMatchday": 14,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 512,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Stade Brestois 29",
+                "shortName": "Brest",
+                "tla": "SBR",
+                "crestUrl": "https://crests.football-data.org/512.svg",
+                "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+                "phone": "+33 (0298) 022030",
+                "website": "http://www.stade-brestois.com",
+                "email": "daniel.leroux.sb29@hotmail.fr",
+                "founded": 1903,
+                "clubColors": "White / Red",
+                "venue": "Stade Francis-Le Bl\u00e9",
+                "lastUpdated": "2020-11-26T02:02:40Z"
+            },
+            {
+                "id": 516,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Olympique de Marseille",
+                "shortName": "Marseille",
+                "tla": "OM",
+                "crestUrl": "https://crests.football-data.org/516.svg",
+                "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
+                "phone": "+33 (049) 1765609",
+                "website": "http://www.om.net",
+                "email": "om@olympiquedemarseille.com",
+                "founded": 1898,
+                "clubColors": "White / Blue",
+                "venue": "Orange V\u00e9lodrome",
+                "lastUpdated": "2020-11-26T02:22:52Z"
+            },
+            {
+                "id": 518,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Montpellier HSC",
+                "shortName": "Montpellier",
+                "tla": "MON",
+                "crestUrl": "https://crests.football-data.org/518.svg",
+                "address": "Domaine de Grammont CS 79041 Montpellier 34967",
+                "phone": "+33 (0467) 154600",
+                "website": "http://www.mhscfoot.com",
+                "email": "accueil@mhscfoot.com",
+                "founded": 1970,
+                "clubColors": "Blue / Orange",
+                "venue": "Stade de la Mosson",
+                "lastUpdated": "2020-11-26T02:02:42Z"
+            },
+            {
+                "id": 521,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Lille OSC",
+                "shortName": "Lille",
+                "tla": "LIL",
+                "crestUrl": "https://crests.football-data.org/521.svg",
+                "address": "Grand Rue 59, 780 Camphin-en-P\u00e9v\u00e8le Lille null",
+                "phone": "+33 (0892) 685672",
+                "website": "http://www.losc.fr",
+                "email": "losclillemetropole.500054@ligue59-62.fr",
+                "founded": 1944,
+                "clubColors": "White / Red",
+                "venue": "Stade Pierre-Mauroy",
+                "lastUpdated": "2020-11-26T02:02:44Z"
+            },
+            {
+                "id": 522,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "OGC Nice",
+                "shortName": "Nice",
+                "tla": "NIC",
+                "crestUrl": "https://crests.football-data.org/522.svg",
+                "address": "35, avenue du Ray Nice 06100",
+                "phone": "+33 (089) 2700238",
+                "website": "http://www.ogcnice.com",
+                "email": "ogcnice.association@orange.fr",
+                "founded": 1904,
+                "clubColors": "Red / Black",
+                "venue": "Stade de Nice",
+                "lastUpdated": "2020-11-26T02:02:46Z"
+            },
+            {
+                "id": 523,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Olympique Lyonnais",
+                "shortName": "Olympique Lyon",
+                "tla": "LYO",
+                "crestUrl": "https://crests.football-data.org/523.svg",
+                "address": "350 avenue Jean Jaur\u00e8s Lyon 69007",
+                "phone": "+33 (0426) 296532",
+                "website": "http://www.olweb.fr",
+                "email": "olympique-lyonnais@lrafoot.org",
+                "founded": 1896,
+                "clubColors": "White / Red / Blue",
+                "venue": "Groupama Stadium",
+                "lastUpdated": "2020-11-26T02:02:47Z"
+            },
+            {
+                "id": 524,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Paris Saint-Germain FC",
+                "shortName": "PSG",
+                "tla": "PSG",
+                "crestUrl": "https://crests.football-data.org/524.svg",
+                "address": "24, rue de Commandant Guibaud Paris 7501",
+                "phone": "+33 (0139) 733467",
+                "website": "http://www.psg.fr",
+                "email": "communaute@psg.fr",
+                "founded": 1904,
+                "clubColors": "Red / Blue / White",
+                "venue": "Parc des Princes",
+                "lastUpdated": "2020-11-26T02:22:54Z"
+            },
+            {
+                "id": 525,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "FC Lorient",
+                "shortName": "Lorient",
+                "tla": "FCL",
+                "crestUrl": "https://crests.football-data.org/525.svg",
+                "address": "Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
+                "phone": "+33 (0297) 351500",
+                "website": "http://www.fclweb.fr",
+                "email": "webmaster@fclweb.fr",
+                "founded": 1926,
+                "clubColors": "Orange / Black",
+                "venue": "Stade Yves Allainmat - Le Moustoir",
+                "lastUpdated": "2020-11-26T02:02:51Z"
+            },
+            {
+                "id": 526,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "FC Girondins de Bordeaux",
+                "shortName": "Bordeaux",
+                "tla": "BOR",
+                "crestUrl": "https://crests.football-data.org/526.svg",
+                "address": "Rue Joliot-Curie, Le Haillan Bordeaux 33185",
+                "phone": "+33 (0556) 161122",
+                "website": "http://www.girondins.com",
+                "email": "cberteau@girondins.com",
+                "founded": 1881,
+                "clubColors": "Blue / White",
+                "venue": "Stade Matmut-Atlantique",
+                "lastUpdated": "2020-11-26T02:02:52Z"
+            },
+            {
+                "id": 527,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "AS Saint-\u00c9tienne",
+                "shortName": "Saint-\u00c9tienne",
+                "tla": "STE",
+                "crestUrl": "https://crests.football-data.org/527.svg",
+                "address": "11 rue de Verdun L'\u00c9trat 42580",
+                "phone": "+33 (0477) 929899",
+                "website": "http://www.asse.fr",
+                "email": "asse@lrafoot.org",
+                "founded": 1919,
+                "clubColors": "Green / White",
+                "venue": "Stade Geoffroy-Guichard",
+                "lastUpdated": "2020-11-26T02:02:53Z"
+            },
+            {
+                "id": 528,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Dijon Football C\u00f4te d'Or",
+                "shortName": "Dijon FCO",
+                "tla": "DFC",
+                "crestUrl": "https://crests.football-data.org/528.svg",
+                "address": "9 rue Ernest Champaux Dijon 21000",
+                "phone": "+33 (0380) 650977",
+                "website": "http://www.dfco.fr",
+                "email": "sportif.asso@dfco.fr",
+                "founded": 1936,
+                "clubColors": "Red / White",
+                "venue": "Stade Gaston G\u00e9rard",
+                "lastUpdated": "2020-11-26T02:02:56Z"
+            },
+            {
+                "id": 529,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Stade Rennais FC 1901",
+                "shortName": "Stade Rennais",
+                "tla": "REN",
+                "crestUrl": "https://crests.football-data.org/529.svg",
+                "address": "La Piverdi\u00e8re - Chemin de la Taupinais CS 5390 Rennes 35039",
+                "phone": "+33 (0820) 000035",
+                "website": "http://www.staderennais.com",
+                "email": "4500015@footlbf.fr",
+                "founded": 1901,
+                "clubColors": "Red / Black",
+                "venue": "Roazhon Park",
+                "lastUpdated": "2020-11-26T02:02:58Z"
+            },
+            {
+                "id": 532,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Angers SCO",
+                "shortName": "Angers SCO",
+                "tla": "ANG",
+                "crestUrl": "https://crests.football-data.org/532.svg",
+                "address": "73 boulevard Jacques Portet, BP 20212 Angers 49002",
+                "phone": "+33 (0892) 390820",
+                "website": "http://www.angers-sco.fr",
+                "email": null,
+                "founded": 1919,
+                "clubColors": "Black / White / Gold",
+                "venue": "Stade Raymond Kopa",
+                "lastUpdated": "2020-11-26T02:03:00Z"
+            },
+            {
+                "id": 543,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "FC Nantes",
+                "shortName": "Nantes",
+                "tla": "NAN",
+                "crestUrl": "https://crests.football-data.org/543.svg",
+                "address": "Centre Sportif Jos\u00e9 Arribas, La Joneli\u00e8re Nantes 44240",
+                "phone": "+33 (0892) 707937",
+                "website": "http://www.fcnantes.com",
+                "email": "contact@fcnantes.com",
+                "founded": 1943,
+                "clubColors": "Green / Yellow",
+                "venue": "Stade de la Beaujoire - Louis Fonteneau",
+                "lastUpdated": "2020-11-26T02:03:02Z"
+            },
+            {
+                "id": 545,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "FC Metz",
+                "shortName": "FC Metz",
+                "tla": "FCM",
+                "crestUrl": "https://crests.football-data.org/545.svg",
+                "address": "3, all\u00e9e Saint Symphonien, BP 40292 Metz 5700",
+                "phone": "+33 (0387) 667215",
+                "website": "http://www.fcmetz.com",
+                "email": "communication@fcmetz.com",
+                "founded": 1919,
+                "clubColors": "Red / Blue",
+                "venue": "Stade Saint-Symphorien",
+                "lastUpdated": "2020-11-26T02:03:05Z"
+            },
+            {
+                "id": 546,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Racing Club de Lens",
+                "shortName": "RC Lens",
+                "tla": "RCL",
+                "crestUrl": "https://crests.football-data.org/546.svg",
+                "address": "33 rue Arthur Lamendin Avion 62210",
+                "phone": "+33 (0321) 132132",
+                "website": "http://www.rclens.fr",
+                "email": "lhochart@rclens.fr",
+                "founded": 1906,
+                "clubColors": "Red / Yellow",
+                "venue": "Stade Bollaert-Delelis",
+                "lastUpdated": "2020-11-26T02:03:07Z"
+            },
+            {
+                "id": 547,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "Stade de Reims",
+                "shortName": "Stade de Reims",
+                "tla": "SDR",
+                "crestUrl": "https://crests.football-data.org/547.svg",
+                "address": "26 rue Robert-Fulton Reims 51100",
+                "phone": "+33 (0891) 024933",
+                "website": "http://www.stade-de-reims.com",
+                "email": "contact@stade-de-reims.com",
+                "founded": 1909,
+                "clubColors": "Red / White / Cyan",
+                "venue": "Stade Auguste-Delaune II",
+                "lastUpdated": "2020-11-26T02:03:09Z"
+            },
+            {
+                "id": 548,
+                "area": {
+                    "id": 2152,
+                    "name": "Monaco"
+                },
+                "name": "AS Monaco FC",
+                "shortName": "Monaco",
+                "tla": "ASM",
+                "crestUrl": "https://crests.football-data.org/548.svg",
+                "address": "Avenue des Castellans Monaco 98000",
+                "phone": "+33 (377) 92057473",
+                "website": "http://www.asmonaco.com",
+                "email": null,
+                "founded": 1919,
+                "clubColors": "Red / White",
+                "venue": "Stade Louis II.",
+                "lastUpdated": "2020-11-26T02:03:11Z"
+            },
+            {
+                "id": 556,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "N\u00eemes Olympique",
+                "shortName": "N\u00eemes Ol.",
+                "tla": "N\u00ceM",
+                "crestUrl": "https://crests.football-data.org/556.svg",
+                "address": "Stade des Costi\u00e8res 123<br>Avenue de la Bouvine N\u00eemes 30900",
+                "phone": "+33 (0466) 290876",
+                "website": "http://www.nimes-olympique.com",
+                "email": "nimesolympiqueassociation@wanadoo.fr",
+                "founded": 1901,
+                "clubColors": "Red / White",
+                "venue": "Stade des Costi\u00e8res",
+                "lastUpdated": "2020-11-26T02:03:13Z"
+            },
+            {
+                "id": 576,
+                "area": {
+                    "id": 2081,
+                    "name": "France"
+                },
+                "name": "RC Strasbourg Alsace",
+                "shortName": "Strasbourg",
+                "tla": "RCS",
+                "crestUrl": "https://crests.football-data.org/576.svg",
+                "address": "12 Rue Extenwoerth Strasbourg 67000",
+                "phone": null,
+                "website": "http://www.rcstrasbourgalsace.fr",
+                "email": null,
+                "founded": 1906,
+                "clubColors": "Blue / White",
+                "venue": "Stade de la Meinau",
+                "lastUpdated": "2020-11-26T02:03:15Z"
+            }
+        ]
+    },
+    "2002": {
+        "count": 18,
+        "filters": {},
+        "competition": {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-08T02:55:04Z"
+        },
+        "season": {
+            "id": 599,
+            "startDate": "2020-09-18",
+            "endDate": "2021-05-15",
+            "currentMatchday": 10,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 1,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "1. FC K\u00f6ln",
+                "shortName": "1. FC K\u00f6ln",
+                "tla": "KOE",
+                "crestUrl": "https://crests.football-data.org/1.svg",
+                "address": "Franz-Kremer-Allee 1 K\u00f6ln 50937",
+                "phone": "+49 (221) 71616300",
+                "website": "http://www.fc-koeln.de",
+                "email": "info@fc-koeln.de",
+                "founded": 1948,
+                "clubColors": "Red / White",
+                "venue": "RheinEnergieSTADION",
+                "lastUpdated": "2020-11-26T02:10:38Z"
+            },
+            {
+                "id": 2,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "TSG 1899 Hoffenheim",
+                "shortName": "Hoffenheim",
+                "tla": "TSG",
+                "crestUrl": "https://crests.football-data.org/2.svg",
+                "address": "Horrenberger Stra\u00dfe 58 Zuzenhausen 74939",
+                "phone": "+49 (07261) 94930",
+                "website": "http://www.achtzehn99.de",
+                "email": "info@achtzehn99.de",
+                "founded": 1921,
+                "clubColors": "Blue / White",
+                "venue": "PreZero Arena",
+                "lastUpdated": "2020-11-26T02:17:04Z"
+            },
+            {
+                "id": 3,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "Bayer 04 Leverkusen",
+                "shortName": "Leverkusen",
+                "tla": "B04",
+                "crestUrl": "https://crests.football-data.org/3.svg",
+                "address": "Bismarckstr. 122-124 Leverkusen 51373",
+                "phone": "+49 (01805) 040404",
+                "website": "http://www.bayer04.de",
+                "email": "stefan.kusche.sk@bayer04.de",
+                "founded": 1904,
+                "clubColors": "Red / White / Black",
+                "venue": "BayArena",
+                "lastUpdated": "2020-11-26T02:17:05Z"
+            },
+            {
+                "id": 4,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "Borussia Dortmund",
+                "shortName": "Dortmund",
+                "tla": "BVB",
+                "crestUrl": "https://crests.football-data.org/4.svg",
+                "address": "Rheinlanddamm 207-209 Dortmund 44137",
+                "phone": "+49 (231) 90200",
+                "website": "http://www.bvb.de",
+                "email": "info@bvb.de",
+                "founded": 1909,
+                "clubColors": "Black / Yellow",
+                "venue": "Signal Iduna Park",
+                "lastUpdated": "2020-12-08T17:54:19Z"
+            },
+            {
+                "id": 5,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "FC Bayern M\u00fcnchen",
+                "shortName": "Bayern M",
+                "tla": "FCB",
+                "crestUrl": "https://crests.football-data.org/5.svg",
+                "address": "S\u00e4benerstr. 51 M\u00fcnchen 81547",
+                "phone": "+49 (089) 699310",
+                "website": "http://www.fcbayern.de",
+                "email": "service-team@fcb.de",
+                "founded": 1900,
+                "clubColors": "Red / White / Blue",
+                "venue": "Allianz Arena",
+                "lastUpdated": "2020-11-26T02:04:16Z"
+            },
+            {
+                "id": 6,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "FC Schalke 04",
+                "shortName": "Schalke",
+                "tla": "S04",
+                "crestUrl": "https://crests.football-data.org/6.svg",
+                "address": "Ernst-Kuzorra-Weg 1 Gelsenkirchen 45891",
+                "phone": "+49 (0209) 36180",
+                "website": "http://www.schalke04.de",
+                "email": "post@schalke04.de",
+                "founded": 1904,
+                "clubColors": "Blue / White",
+                "venue": "Veltins-Arena",
+                "lastUpdated": "2020-11-26T02:04:18Z"
+            },
+            {
+                "id": 9,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "Hertha BSC",
+                "shortName": "Hertha BSC",
+                "tla": "BSC",
+                "crestUrl": "https://crests.football-data.org/9.svg",
+                "address": "Hanns-Braun-Stra\u00dfe, Friesenhaus II Berlin 14053",
+                "phone": "+49 (030) 3009280",
+                "website": "http://www.herthabsc.de",
+                "email": "info@herthabsc.de",
+                "founded": 1892,
+                "clubColors": "Blue / White",
+                "venue": "Olympiastadion Berlin",
+                "lastUpdated": "2020-11-26T02:04:20Z"
+            },
+            {
+                "id": 10,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "VfB Stuttgart",
+                "shortName": "Stuttgart",
+                "tla": "VFB",
+                "crestUrl": "https://crests.football-data.org/10.svg",
+                "address": "Mercedesstra\u00dfe 109 Stuttgart 70372",
+                "phone": "+49 (1805) 832 5463",
+                "website": "http://www.vfb.de",
+                "email": "info@vfb-stuttgart.de",
+                "founded": 1893,
+                "clubColors": "White / Red",
+                "venue": "Mercedes-Benz Arena",
+                "lastUpdated": "2020-11-26T02:04:21Z"
+            },
+            {
+                "id": 11,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "VfL Wolfsburg",
+                "shortName": "Wolfsburg",
+                "tla": "WOB",
+                "crestUrl": "https://crests.football-data.org/11.svg",
+                "address": "In den Allerwiesen 1 Wolfsburg 38446",
+                "phone": "+49 (05361) 89030",
+                "website": "http://www.vfl-wolfsburg.de",
+                "email": "fussball@vfl-wolfsburg.de",
+                "founded": 1945,
+                "clubColors": "Green / White",
+                "venue": "Volkswagen Arena",
+                "lastUpdated": "2020-11-26T02:04:23Z"
+            },
+            {
+                "id": 12,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "SV Werder Bremen",
+                "shortName": "Bremen",
+                "tla": "SVW",
+                "crestUrl": "https://crests.football-data.org/12.svg",
+                "address": "Franz-B\u00f6hmert-Str. 1c Bremen 28205",
+                "phone": "+49 (01805) 937337",
+                "website": "http://www.werder.de",
+                "email": "info@werder-online.de",
+                "founded": 1899,
+                "clubColors": "Green / White",
+                "venue": "Weserstadion",
+                "lastUpdated": "2020-11-26T02:04:24Z"
+            },
+            {
+                "id": 15,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "1. FSV Mainz 05",
+                "shortName": "Mainz",
+                "tla": "M05",
+                "crestUrl": "https://crests.football-data.org/15.svg",
+                "address": "Isaac-Fulda-Allee 5 Mainz 55124",
+                "phone": null,
+                "website": "https://handball.mainz05.de",
+                "email": "daniela.bilo@mainz05.de",
+                "founded": 1926,
+                "clubColors": "Red / White",
+                "venue": "Opel Arena",
+                "lastUpdated": "2020-11-26T02:04:25Z"
+            },
+            {
+                "id": 16,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "FC Augsburg",
+                "shortName": "Augsburg",
+                "tla": "FCA",
+                "crestUrl": "https://crests.football-data.org/16.svg",
+                "address": "Donauw\u00f6rther Stra\u00dfe 170 Augsburg 86154",
+                "phone": "+49 (0821) 4554770",
+                "website": "http://www.fcaugsburg.de",
+                "email": "info@fcaugsburg.de",
+                "founded": 1907,
+                "clubColors": "Red / Green / White",
+                "venue": "WWK Arena",
+                "lastUpdated": "2020-11-26T02:04:27Z"
+            },
+            {
+                "id": 17,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "SC Freiburg",
+                "shortName": "Freiburg",
+                "tla": "SCF",
+                "crestUrl": "https://crests.football-data.org/17.svg",
+                "address": "Schwarzwaldstra\u00dfe 193 Freiburg 79117",
+                "phone": "+49 (0761) 385510",
+                "website": "http://www.scfreiburg.com",
+                "email": "scf@scfreiburg.com",
+                "founded": 1912,
+                "clubColors": "Red / White",
+                "venue": "Schwarzwald-Stadion",
+                "lastUpdated": "2020-11-26T02:04:28Z"
+            },
+            {
+                "id": 18,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "Borussia M\u00f6nchengladbach",
+                "shortName": "M'gladbach",
+                "tla": "BMG",
+                "crestUrl": "https://crests.football-data.org/18.svg",
+                "address": "Hennes-Weisweiler-Allee 1 M\u00f6nchengladbach 41179",
+                "phone": "+49 (02161) 92930",
+                "website": "http://www.borussia.de",
+                "email": "info@borussia.de",
+                "founded": 1900,
+                "clubColors": "Black / White / Green",
+                "venue": "Stadion im Borussia-Park",
+                "lastUpdated": "2020-11-26T02:04:29Z"
+            },
+            {
+                "id": 19,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "Eintracht Frankfurt",
+                "shortName": "Frankfurt",
+                "tla": "SGE",
+                "crestUrl": "https://crests.football-data.org/19.svg",
+                "address": "M\u00f6rfelder Landstra\u00dfe 362 Frankfurt am Main 60528",
+                "phone": "+49 (0180) 5060303",
+                "website": "http://www.eintracht.de",
+                "email": "info@eintracht-frankfurt.de",
+                "founded": 1899,
+                "clubColors": "Red / Black",
+                "venue": "Deutsche Bank Park",
+                "lastUpdated": "2020-11-26T02:04:32Z"
+            },
+            {
+                "id": 28,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "1. FC Union Berlin",
+                "shortName": "Union Berlin",
+                "tla": "UNB",
+                "crestUrl": "https://crests.football-data.org/28.svg",
+                "address": "An der Wuhlheide 263 Berlin 12555",
+                "phone": "+49 (030) 6566880",
+                "website": "http://www.fc-union-berlin.de",
+                "email": "verein@fc-union-berlin.de",
+                "founded": 1906,
+                "clubColors": "Red / White",
+                "venue": "Stadion An der Alten F\u00f6rsterei",
+                "lastUpdated": "2020-11-26T02:04:33Z"
+            },
+            {
+                "id": 38,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "DSC Arminia Bielefeld",
+                "shortName": "Bielefeld",
+                "tla": "BIE",
+                "crestUrl": "https://crests.football-data.org/38.svg",
+                "address": "Melanchthonstra\u00dfe 31a Bielefeld 33615",
+                "phone": "+49 (0521) 966110",
+                "website": "http://www.arminia-bielefeld.de",
+                "email": "kontakt@arminia-bielefeld.de",
+                "founded": 1905,
+                "clubColors": "Black / White / Blue",
+                "venue": "Sch\u00fccoArena Kunstrasenplatz",
+                "lastUpdated": "2020-11-26T02:04:34Z"
+            },
+            {
+                "id": 721,
+                "area": {
+                    "id": 2088,
+                    "name": "Germany"
+                },
+                "name": "RB Leipzig",
+                "shortName": "RB Leipzig",
+                "tla": "RBL",
+                "crestUrl": "https://crests.football-data.org/721.svg",
+                "address": "Neumarkt 29-33 Leipzig 04109",
+                "phone": "+49 (0341) 1247970",
+                "website": "http://www.dierotenbullen.com",
+                "email": "soccerrbl.office@redbulls.com",
+                "founded": 2009,
+                "clubColors": "White / Red",
+                "venue": "Red Bull Arena",
+                "lastUpdated": "2020-11-26T02:04:36Z"
+            }
+        ]
+    },
+    "2019": {
+        "count": 20,
+        "filters": {},
+        "competition": {
+            "id": 2019,
+            "area": {
+                "id": 2114,
+                "name": "Italy"
+            },
+            "name": "Serie A",
+            "code": "SA",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-08T03:00:05Z"
+        },
+        "season": {
+            "id": 638,
+            "startDate": "2020-09-20",
+            "endDate": "2021-05-23",
+            "currentMatchday": 10,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 98,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "AC Milan",
+                "shortName": "Milan",
+                "tla": "MIL",
+                "crestUrl": "https://crests.football-data.org/98.svg",
+                "address": "Via Filippo Turati 3 Milano 20121",
+                "phone": "+39 (02) 62281",
+                "website": "http://www.acmilan.com",
+                "email": null,
+                "founded": 1899,
+                "clubColors": "Red / Black",
+                "venue": "Stadio Giuseppe Meazza",
+                "lastUpdated": "2020-11-26T02:19:28Z"
+            },
+            {
+                "id": 99,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "ACF Fiorentina",
+                "shortName": "Fiorentina",
+                "tla": "FIO",
+                "crestUrl": "https://crests.football-data.org/99.svg",
+                "address": "Viale Manfredo Fanti 4 Firenze 50137",
+                "phone": "+39 (055) 5030190",
+                "website": "http://www.acffiorentina.it",
+                "email": "segreteria@acffiorentina.it",
+                "founded": 1926,
+                "clubColors": "Purple / White",
+                "venue": "Stadio Artemio Franchi",
+                "lastUpdated": "2020-11-26T02:23:02Z"
+            },
+            {
+                "id": 100,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "AS Roma",
+                "shortName": "Roma",
+                "tla": "ROM",
+                "crestUrl": "https://crests.football-data.org/100.svg",
+                "address": "Via di Trigoria km. 3,600 Roma 00128",
+                "phone": "+39 (06) 501911",
+                "website": "http://www.asroma.it",
+                "email": "info@asromaweb.com",
+                "founded": 1927,
+                "clubColors": "Maroon / Orange / White",
+                "venue": "Stadio Olimpico",
+                "lastUpdated": "2020-11-26T02:19:31Z"
+            },
+            {
+                "id": 102,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Atalanta BC",
+                "shortName": "Atalanta",
+                "tla": "ATA",
+                "crestUrl": "https://crests.football-data.org/102.svg",
+                "address": "Corso Europa, 46, Zingonia Ciserano 24040",
+                "phone": "+39 (035) 4186211",
+                "website": "http://www.atalanta.it",
+                "email": "info@atalanta.it",
+                "founded": 1904,
+                "clubColors": "Black / Blue",
+                "venue": "Stadio Atleti Azzurri d'Italia",
+                "lastUpdated": "2020-11-26T02:19:32Z"
+            },
+            {
+                "id": 103,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Bologna FC 1909",
+                "shortName": "Bologna",
+                "tla": "BOL",
+                "crestUrl": "https://crests.football-data.org/103.svg",
+                "address": "Via Casteldebole 10 Bologna 40132",
+                "phone": "+39 (051) 6111111",
+                "website": "http://www.bolognafc.it",
+                "email": "comunicazione@bolognafc.it",
+                "founded": 1909,
+                "clubColors": "Red / Blue / White",
+                "venue": "Stadio Renato Dall'Ara",
+                "lastUpdated": "2020-11-26T02:23:03Z"
+            },
+            {
+                "id": 104,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Cagliari Calcio",
+                "shortName": "Cagliari",
+                "tla": "CAG",
+                "crestUrl": "https://crests.football-data.org/104.svg",
+                "address": "Viale la Plaia 15 Cagliari 09123",
+                "phone": "+39 (070) 604 201",
+                "website": "http://www.cagliaricalcio.net",
+                "email": "info@cagliaricalcio.net",
+                "founded": 1920,
+                "clubColors": "Red / Navy Blue / White",
+                "venue": "Sardegna Arena",
+                "lastUpdated": "2020-11-26T02:23:05Z"
+            },
+            {
+                "id": 107,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Genoa CFC",
+                "shortName": "Genoa",
+                "tla": "GEN",
+                "crestUrl": "https://crests.football-data.org/107.svg",
+                "address": "Via Ronchi, 67 Genova 16155",
+                "phone": "+39 (010) 612831",
+                "website": "http://www.genoacfc.it",
+                "email": "genoa@lega-calcio.it",
+                "founded": 1893,
+                "clubColors": "Red / Navy Blue",
+                "venue": "Stadio Comunale Luigi Ferraris",
+                "lastUpdated": "2020-11-26T02:19:37Z"
+            },
+            {
+                "id": 108,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "FC Internazionale Milano",
+                "shortName": "Inter",
+                "tla": "INT",
+                "crestUrl": "https://crests.football-data.org/108.svg",
+                "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+                "phone": "+39 (02) 77151",
+                "website": "http://www.inter.it",
+                "email": "segreteriaccic@inter.it",
+                "founded": 1908,
+                "clubColors": "Blue / Black",
+                "venue": "Stadio Giuseppe Meazza",
+                "lastUpdated": "2020-11-26T02:19:38Z"
+            },
+            {
+                "id": 109,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Juventus FC",
+                "shortName": "Juventus",
+                "tla": "JUV",
+                "crestUrl": "https://crests.football-data.org/109.svg",
+                "address": "Corso Galileo Ferraris, 32 Torino 10128",
+                "phone": "+39 (011) 65631",
+                "website": "http://www.juventus.com",
+                "email": "francesco.gianello@juventus.com",
+                "founded": 1897,
+                "clubColors": "White / Black",
+                "venue": "Allianz Stadium",
+                "lastUpdated": "2020-11-26T02:19:40Z"
+            },
+            {
+                "id": 110,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "SS Lazio",
+                "shortName": "Lazio",
+                "tla": "LAZ",
+                "crestUrl": "https://crests.football-data.org/110.svg",
+                "address": "Via di Santa Cornelia, 1000 Formello 00060",
+                "phone": "+39 (06) 976071",
+                "website": "http://www.sslazio.it",
+                "email": "segreteria.lazio@sslazio.it",
+                "founded": 1900,
+                "clubColors": "White / Sky Blue",
+                "venue": "Stadio Olimpico",
+                "lastUpdated": "2020-11-26T02:19:41Z"
+            },
+            {
+                "id": 112,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Parma Calcio 1913",
+                "shortName": "Parma",
+                "tla": "PAR",
+                "crestUrl": "https://crests.football-data.org/112.svg",
+                "address": "Strada Carlo Pisacane, 4 Parma 43121",
+                "phone": "+39 (521) 170591",
+                "website": "http://www.parmacalcio1913.com",
+                "email": "info@parmacalcio1913.com",
+                "founded": 1913,
+                "clubColors": "White / Black",
+                "venue": "Stadio Ennio Tardini",
+                "lastUpdated": "2020-11-26T02:19:43Z"
+            },
+            {
+                "id": 113,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "SSC Napoli",
+                "shortName": "Napoli",
+                "tla": "NAP",
+                "crestUrl": "https://crests.football-data.org/113.svg",
+                "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+                "phone": "+39 (081) 5095344",
+                "website": "http://www.sscnapoli.it",
+                "email": "infocalcio@sscn.it",
+                "founded": 1904,
+                "clubColors": "Sky Blue / White",
+                "venue": "Stadio San Paolo",
+                "lastUpdated": "2020-11-26T02:19:45Z"
+            },
+            {
+                "id": 115,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Udinese Calcio",
+                "shortName": "Udinese",
+                "tla": "UDI",
+                "crestUrl": "https://crests.football-data.org/115.svg",
+                "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
+                "phone": "+39 (0432) 544911",
+                "website": "http://www.udinese.it",
+                "email": "udinese@udinese.it",
+                "founded": 1896,
+                "clubColors": "White / Black",
+                "venue": "Dacia Arena",
+                "lastUpdated": "2020-11-26T02:19:45Z"
+            },
+            {
+                "id": 450,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Hellas Verona FC",
+                "shortName": "Verona",
+                "tla": "VER",
+                "crestUrl": "https://crests.football-data.org/450.svg",
+                "address": "Via Evangelista Torricelli, 37 Verona 37136",
+                "phone": "+39 (045) 8186111",
+                "website": "http://www.hellasverona.it",
+                "email": "ufficiostampa@hellasverona.it",
+                "founded": 1903,
+                "clubColors": "Yellow / Blue",
+                "venue": "Stadio Marc'Antonio Bentegodi",
+                "lastUpdated": "2020-11-26T02:19:46Z"
+            },
+            {
+                "id": 471,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "US Sassuolo Calcio",
+                "shortName": "Sassuolo",
+                "tla": "SAS",
+                "crestUrl": "https://crests.football-data.org/471.svg",
+                "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+                "phone": "+39 (0536) 882645",
+                "website": "http://www.sassuolocalcio.it",
+                "email": "info@sassuolocalcio.it",
+                "founded": 1920,
+                "clubColors": "Green / Black",
+                "venue": "Mapei Stadium - Citt\u00e0 del Tricolore",
+                "lastUpdated": "2020-11-26T02:19:48Z"
+            },
+            {
+                "id": 472,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "FC Crotone",
+                "shortName": "Crotone",
+                "tla": "CRO",
+                "crestUrl": "https://crests.football-data.org/472.svg",
+                "address": "Via Cutro Crotone 88900",
+                "phone": "+39 (0962) 28 919",
+                "website": "http://www.fccrotone.it",
+                "email": "info@fccrotone.it",
+                "founded": 1923,
+                "clubColors": "Blue / Red",
+                "venue": "Stadio Ezio Scida",
+                "lastUpdated": "2020-11-26T02:19:50Z"
+            },
+            {
+                "id": 488,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Spezia Calcio",
+                "shortName": "Spezia Calcio",
+                "tla": "SPE",
+                "crestUrl": "https://crests.football-data.org/488.svg",
+                "address": "Via Dei Pioppi, ingresso 1 La Spezia 19123",
+                "phone": "+39 (0187) 711322",
+                "website": "http://www.acspezia.com",
+                "email": "spezia.calcio@lega-pro.com",
+                "founded": 1906,
+                "clubColors": "White / Black",
+                "venue": "Stadio Alberto Picco",
+                "lastUpdated": "2020-11-26T02:19:51Z"
+            },
+            {
+                "id": 584,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "UC Sampdoria",
+                "shortName": "Sampdoria",
+                "tla": "SAM",
+                "crestUrl": "https://crests.football-data.org/584.svg",
+                "address": "Piazza Borgo Pila, 39 Genova 16129",
+                "phone": "+39 (010) 5316711",
+                "website": "http://www.sampdoria.it",
+                "email": "info@sampdoria.it",
+                "founded": 1946,
+                "clubColors": "Blue / White / Red",
+                "venue": "Stadio Comunale Luigi Ferraris",
+                "lastUpdated": "2020-11-26T02:19:52Z"
+            },
+            {
+                "id": 586,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Torino FC",
+                "shortName": "Torino",
+                "tla": "TOR",
+                "crestUrl": "https://crests.football-data.org/586.svg",
+                "address": "Via Arcivescovado 1 Torino 10122",
+                "phone": "+39 (01) 11970034",
+                "website": "http://www.torinofc.it",
+                "email": "info@toro.it",
+                "founded": 1894,
+                "clubColors": "Brown / White",
+                "venue": "Stadio Olimpico di Torino",
+                "lastUpdated": "2020-11-26T02:19:53Z"
+            },
+            {
+                "id": 1106,
+                "area": {
+                    "id": 2114,
+                    "name": "Italy"
+                },
+                "name": "Benevento Calcio",
+                "shortName": "Benevento",
+                "tla": "BEN",
+                "crestUrl": "https://crests.football-data.org/1106.svg",
+                "address": "Via Santa Colomba 121 Benevento 82100",
+                "phone": "+39 (0824) 47922",
+                "website": "http://www.beneventocalciospa.it",
+                "email": "benevento.calcio@lega-calcio-serie-c.it",
+                "founded": 1929,
+                "clubColors": "Red / Yellow",
+                "venue": "Stadio Ciro Vigorito",
+                "lastUpdated": "2020-11-26T02:19:54Z"
+            }
+        ]
+    },
+    "2003": {
+        "count": 18,
+        "filters": {},
+        "competition": {
+            "id": 2003,
+            "area": {
+                "id": 2163,
+                "name": "Netherlands"
+            },
+            "name": "Eredivisie",
+            "code": "DED",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-07T03:10:12Z"
+        },
+        "season": {
+            "id": 615,
+            "startDate": "2020-09-12",
+            "endDate": "2021-05-16",
+            "currentMatchday": 12,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 666,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "FC Twente '65",
+                "shortName": "Twente",
+                "tla": "TWE",
+                "crestUrl": "https://crests.football-data.org/666.svg",
+                "address": "Colosseum 65 Enschede 7521 PP",
+                "phone": "+31 (053) 852 5525",
+                "website": "http://www.fctwente.nl",
+                "email": "administratie@fctwente.nl",
+                "founded": 1965,
+                "clubColors": "Red / White",
+                "venue": "De Grolsch Veste",
+                "lastUpdated": "2020-11-26T02:12:41Z"
+            },
+            {
+                "id": 668,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "VVV Venlo",
+                "shortName": "Venlo",
+                "tla": "VVV",
+                "crestUrl": "https://crests.football-data.org/668.svg",
+                "address": "Kaldenkerkerweg 182 Venlo 5915 AH",
+                "phone": "+31 (77) 351 5806",
+                "website": "http://www.vvv-venlo.nl",
+                "email": "info@vvv-venlo.nl",
+                "founded": 1903,
+                "clubColors": "Yellow / Black",
+                "venue": "Seacon Stadion De Koel",
+                "lastUpdated": "2020-11-26T02:12:43Z"
+            },
+            {
+                "id": 671,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "Heracles Almelo",
+                "shortName": "Heracles",
+                "tla": "HER",
+                "crestUrl": "https://crests.football-data.org/671.svg",
+                "address": "Stadionlaan 1 Almelo 7606 JZ",
+                "phone": "+31 (546) 817070",
+                "website": "http://www.heracles.nl",
+                "email": "info@heracles.nl",
+                "founded": 1903,
+                "clubColors": "Black / White",
+                "venue": "Erve Asito",
+                "lastUpdated": "2020-11-26T02:12:44Z"
+            },
+            {
+                "id": 672,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "Willem II Tilburg",
+                "shortName": "Willem II",
+                "tla": "WII",
+                "crestUrl": "https://crests.football-data.org/672.svg",
+                "address": "Goirleseweg 34 Tilburg 5026 PC",
+                "phone": "+31 (013) 5490590",
+                "website": "http://www.willem-II.nl",
+                "email": "willem-ii@willem-ii.nl",
+                "founded": 1896,
+                "clubColors": "Red / White / Blue",
+                "venue": "Koning Willem II Stadion",
+                "lastUpdated": "2020-11-26T02:12:46Z"
+            },
+            {
+                "id": 673,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "SC Heerenveen",
+                "shortName": "Heerenveen",
+                "tla": "HEE",
+                "crestUrl": "https://crests.football-data.org/673.svg",
+                "address": "Abe Lenstra Boulevard 19 Heerenveen 8448 JA",
+                "phone": "+31 (513) 612100",
+                "website": "http://www.sc-heerenveen.nl",
+                "email": "info@sc-heerenveen.nl",
+                "founded": 1920,
+                "clubColors": "Blue / White",
+                "venue": "Abe Lenstra Stadion",
+                "lastUpdated": "2020-11-20T07:10:28Z"
+            },
+            {
+                "id": 674,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "PSV",
+                "shortName": "PSV",
+                "tla": "PSV",
+                "crestUrl": "https://crests.football-data.org/674.svg",
+                "address": "Fredriklaan 10a Eindhoven 5616 NH",
+                "phone": "+31 (040) 2505501",
+                "website": "http://www.psv.nl",
+                "email": "info@psv.nl",
+                "founded": 1913,
+                "clubColors": "Red / White",
+                "venue": "Philips Stadion",
+                "lastUpdated": "2020-11-19T02:07:14Z"
+            },
+            {
+                "id": 675,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "Feyenoord Rotterdam",
+                "shortName": "Feyenoord",
+                "tla": "FEY",
+                "crestUrl": "https://crests.football-data.org/675.svg",
+                "address": "Van Zandvlietplein 3 Rotterdam 3007 AP",
+                "phone": "+31 (010) 2926888",
+                "website": "http://www.feyenoord.nl",
+                "email": "klantenservice@feyenoord.nl",
+                "founded": 1908,
+                "clubColors": "Red / White / Black",
+                "venue": "Stadion Feijenoord",
+                "lastUpdated": "2020-11-19T02:07:15Z"
+            },
+            {
+                "id": 676,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "FC Utrecht",
+                "shortName": "Utrecht",
+                "tla": "UTR",
+                "crestUrl": "https://crests.football-data.org/676.svg",
+                "address": "Postbus 85159 Utrecht 3508 AD",
+                "phone": "+31 (030) 8885555",
+                "website": "http://www.fc-utrecht.nl",
+                "email": "info@fcutrecht.nl",
+                "founded": 1970,
+                "clubColors": "Red / White",
+                "venue": "Stadion Galgenwaard",
+                "lastUpdated": "2020-11-19T02:07:17Z"
+            },
+            {
+                "id": 677,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "FC Groningen",
+                "shortName": "Groningen",
+                "tla": "GRO",
+                "crestUrl": "https://crests.football-data.org/677.svg",
+                "address": "Boumaboulevard 41 Groningen 9701 BJ",
+                "phone": "+31 (050) 5878787",
+                "website": "http://www.fcgroningen.nl",
+                "email": "info@fcgroningen.nl",
+                "founded": 1921,
+                "clubColors": "Green / White",
+                "venue": "Hitachi Capital Mobility Stadion",
+                "lastUpdated": "2020-11-19T02:07:18Z"
+            },
+            {
+                "id": 678,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "AFC Ajax",
+                "shortName": "Ajax",
+                "tla": "AJA",
+                "crestUrl": "https://crests.football-data.org/678.svg",
+                "address": "ArenA Boulevard 29 Amsterdam 1101 AX",
+                "phone": "+31 (020) 3111444",
+                "website": "http://www.ajax.nl",
+                "email": "info@ajax.nl",
+                "founded": 1900,
+                "clubColors": "Red / White",
+                "venue": "Johan Cruyff ArenA",
+                "lastUpdated": "2020-11-19T02:07:20Z"
+            },
+            {
+                "id": 679,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "SBV Vitesse",
+                "shortName": "Vitesse",
+                "tla": "VIT",
+                "crestUrl": "https://crests.football-data.org/679.svg",
+                "address": "Batavierenweg 25 Arnhem 6841 HN",
+                "phone": "+31 (026) 8807888",
+                "website": "http://www.vitesse.nl",
+                "email": "info@vitesse.nl",
+                "founded": 1892,
+                "clubColors": "Yellow / Black",
+                "venue": "GelreDome",
+                "lastUpdated": "2020-11-19T02:07:21Z"
+            },
+            {
+                "id": 680,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "ADO Den Haag",
+                "shortName": "Den Haag",
+                "tla": "ADO",
+                "crestUrl": "https://crests.football-data.org/680.svg",
+                "address": "Haags Kwartier 55 Den Haag 2491 BM",
+                "phone": "+31 (900) 2364636",
+                "website": "http://www.adodenhaag.nl",
+                "email": "info@adodenhaag.nl",
+                "founded": 1905,
+                "clubColors": "Green / Yellow",
+                "venue": "Cars Jeans Stadion",
+                "lastUpdated": "2020-11-19T02:07:23Z"
+            },
+            {
+                "id": 682,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "AZ",
+                "shortName": "AZ",
+                "tla": "AZ",
+                "crestUrl": "https://crests.football-data.org/682.svg",
+                "address": "Stadionweg 1 Alkmaar 1812 AZ",
+                "phone": "+31 (072) 5478000",
+                "website": "http://www.az.nl",
+                "email": "info@az.nl",
+                "founded": 1967,
+                "clubColors": "Red / White",
+                "venue": "AFAS Stadion",
+                "lastUpdated": "2020-11-19T02:07:25Z"
+            },
+            {
+                "id": 683,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "RKC Waalwijk",
+                "shortName": "RKC",
+                "tla": "RKC",
+                "crestUrl": "https://crests.football-data.org/683.svg",
+                "address": "Akkerlaan 2 Waalwijk 5143 ND",
+                "phone": "+31 (416) 334356",
+                "website": "http://www.rkcwaalwijk.nl",
+                "email": "info@rkcwaalwijk.nl",
+                "founded": 1940,
+                "clubColors": "Yellow / Blue",
+                "venue": "Mandemakers Stadion",
+                "lastUpdated": "2020-11-05T02:05:50Z"
+            },
+            {
+                "id": 684,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "PEC Zwolle",
+                "shortName": "Zwolle",
+                "tla": "ZWO",
+                "crestUrl": "https://crests.football-data.org/684.svg",
+                "address": "Stadionplein 1 Zwolle 8025 CP",
+                "phone": "+31 (38) 453 4948",
+                "website": "http://www.peczwolle.nl",
+                "email": "info@peczwolle.nl",
+                "founded": 1910,
+                "clubColors": "Blue / White",
+                "venue": "MAC\u00b3PARK Stadion",
+                "lastUpdated": "2020-11-05T02:05:52Z"
+            },
+            {
+                "id": 1914,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "FC Emmen",
+                "shortName": "Emmen",
+                "tla": "EMM",
+                "crestUrl": "https://crests.football-data.org/1914.svg",
+                "address": "Meerdijk 65 Emmen 7825 TH",
+                "phone": "+31 (0591) 627332",
+                "website": "http://www.fcemmen.nl",
+                "email": "info@fcemmen.nl",
+                "founded": 1925,
+                "clubColors": "Red / White",
+                "venue": "De Oude Meerdijk",
+                "lastUpdated": "2020-11-05T02:05:54Z"
+            },
+            {
+                "id": 1920,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "Fortuna Sittard",
+                "shortName": "Sittard",
+                "tla": "SIT",
+                "crestUrl": "https://crests.football-data.org/1920.svg",
+                "address": "Milaanstraat 120 Sittard 6135 LH",
+                "phone": "+31 (046) 4113440",
+                "website": "http://www.fortuna-sittard.nl",
+                "email": "info@fortuna-sittard.nl",
+                "founded": 1968,
+                "clubColors": "Yellow / Green",
+                "venue": "Fortuna Sittard Stadion",
+                "lastUpdated": "2020-10-22T02:06:08Z"
+            },
+            {
+                "id": 6806,
+                "area": {
+                    "id": 2163,
+                    "name": "Netherlands"
+                },
+                "name": "Sparta Rotterdam",
+                "shortName": "Sparta",
+                "tla": "SPA",
+                "crestUrl": "https://crests.football-data.org/6806.svg",
+                "address": "Spartapark Noord 1 Rotterdam 3027 VW",
+                "phone": "+31 (010) 8909210",
+                "website": "http://www.sparta-rotterdam.nl",
+                "email": "info@sparta-rotterdam.nl",
+                "founded": 1888,
+                "clubColors": "Red / White / Black",
+                "venue": "Sparta-Stadion Het Kasteel",
+                "lastUpdated": "2020-10-22T02:06:09Z"
+            }
+        ]
+    },
+    "2017": {
+        "count": 18,
+        "filters": {},
+        "competition": {
+            "id": 2017,
+            "area": {
+                "id": 2187,
+                "name": "Portugal"
+            },
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-08T03:15:06Z"
+        },
+        "season": {
+            "id": 644,
+            "startDate": "2020-09-20",
+            "endDate": "2021-05-19",
+            "currentMatchday": 9,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 496,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Rio Ave FC",
+                "shortName": "Rio Ave",
+                "tla": "RIO",
+                "crestUrl": "https://crests.football-data.org/496.svg",
+                "address": "Pra\u00e7a da Rep\u00fablica, n.\u00ba35, Apartado 42 Vila do Conde 4481-909",
+                "phone": "+351 (252) 640590",
+                "website": "http://www.rioave-fc.pt",
+                "email": "geral@rioave-fc.pt",
+                "founded": 1939,
+                "clubColors": "Green / White",
+                "venue": "Est\u00e1dio do Rio Ave Futebol Clube",
+                "lastUpdated": "2020-11-26T02:23:31Z"
+            },
+            {
+                "id": 498,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Sporting Clube de Portugal",
+                "shortName": "Sporting CP",
+                "tla": "SPO",
+                "crestUrl": "https://crests.football-data.org/498.svg",
+                "address": "Edif\u00edcio Visconde de Alvalade, Apartado 42099 Lisboa 1601-801",
+                "phone": "+351 (217) 516000",
+                "website": "http://www.sporting.pt",
+                "email": "sporting@sportmultimedia.pt",
+                "founded": 1906,
+                "clubColors": "Green / White",
+                "venue": "Est\u00e1dio Jos\u00e9 Alvalade",
+                "lastUpdated": "2020-11-26T02:23:32Z"
+            },
+            {
+                "id": 503,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "FC Porto",
+                "shortName": "Porto",
+                "tla": "FCP",
+                "crestUrl": "https://crests.football-data.org/503.svg",
+                "address": "Est\u00e1dio do Drag\u00e3o, Entrada Poente - Piso 3 Porto 4350-451",
+                "phone": "+351 (022) 5070500",
+                "website": "http://www.fcporto.pt",
+                "email": "geral@portosad.pt",
+                "founded": 1893,
+                "clubColors": "Blue / White",
+                "venue": "Est\u00e1dio Do Drag\u00e3o",
+                "lastUpdated": "2020-11-26T02:20:29Z"
+            },
+            {
+                "id": 507,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "FC Pa\u00e7os de Ferreira",
+                "shortName": "Pa\u00e7os Ferreira",
+                "tla": "PA\u00c7",
+                "crestUrl": "https://crests.football-data.org/507.svg",
+                "address": "Rua do Estadio, Apartado 26 Pa\u00e7os de Ferreira 4594-909",
+                "phone": "+351 (255) 965230",
+                "website": "http://www.fcpf.pt",
+                "email": "geral@fcpf.pt",
+                "founded": 1950,
+                "clubColors": "Green / Yellow",
+                "venue": "Est\u00e1dio da Capital do M\u00f3vel",
+                "lastUpdated": "2020-11-26T02:20:31Z"
+            },
+            {
+                "id": 583,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Moreirense FC",
+                "shortName": "Moreirense",
+                "tla": "MOR",
+                "crestUrl": "https://crests.football-data.org/583.svg",
+                "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de C\u00f3negos 4815-270",
+                "phone": "+351 (253) 561836",
+                "website": "http://www.moreirensefc.pt",
+                "email": "geral@moreirensefc.com",
+                "founded": 1938,
+                "clubColors": "Green / White",
+                "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+                "lastUpdated": "2020-11-19T02:15:41Z"
+            },
+            {
+                "id": 810,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Boavista FC",
+                "shortName": "Boavista",
+                "tla": "BOA",
+                "crestUrl": "https://crests.football-data.org/810.svg",
+                "address": "Rua O Primeiro de Janeiro, Boavista Porto 4100-127",
+                "phone": "+351 (022) 6071000",
+                "website": "http://www.boavistafc.pt",
+                "email": "geral@boavistafc.pt",
+                "founded": 1903,
+                "clubColors": "Black / White",
+                "venue": "Est\u00e1dio do Bessa S\u00e9culo XXI",
+                "lastUpdated": "2020-11-19T02:15:42Z"
+            },
+            {
+                "id": 1049,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "CD Tondela",
+                "shortName": "Tondela",
+                "tla": "TON",
+                "crestUrl": "https://crests.football-data.org/1049.svg",
+                "address": "Av. Eurico Jos\u00e9 Gouveia (Est\u00e1dio) - Apartado 84 Tondela 3460-582",
+                "phone": "+351 (232) 821447",
+                "website": "http://www.cdtondela.pt",
+                "email": "cdtondela@gmail.com",
+                "founded": 1933,
+                "clubColors": "Green / Yellow",
+                "venue": "Est\u00e1dio Jo\u00e3o Cardoso",
+                "lastUpdated": "2020-11-19T02:15:45Z"
+            },
+            {
+                "id": 1903,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Sport Lisboa e Benfica",
+                "shortName": "SL Benfica",
+                "tla": "BEN",
+                "crestUrl": "https://crests.football-data.org/1903.svg",
+                "address": "null null null",
+                "phone": null,
+                "website": "https://www.slbenfica.pt",
+                "email": null,
+                "founded": 2020,
+                "clubColors": null,
+                "venue": "Est\u00e1dio do Sport Lisboa e Benfica",
+                "lastUpdated": "2020-11-19T02:15:47Z"
+            },
+            {
+                "id": 5529,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "CD Nacional",
+                "shortName": "CD Nacional",
+                "tla": "CDN",
+                "crestUrl": "https://crests.football-data.org/5529.svg",
+                "address": "Rua do Esmeraldo, n.\u00ba 46 Funchal 9060",
+                "phone": "+351 (291) 227324",
+                "website": "http://www.cdnacional.pt",
+                "email": "geral@cdnacional.pt",
+                "founded": 1910,
+                "clubColors": "Black / White",
+                "venue": "Est\u00e1dio da Madeira",
+                "lastUpdated": "2020-11-19T02:15:48Z"
+            },
+            {
+                "id": 5530,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "CD Santa Clara",
+                "shortName": "Santa Clara",
+                "tla": "CDS",
+                "crestUrl": "https://crests.football-data.org/5530.svg",
+                "address": "Rua Comandante Jaime de Sousa, 21 Ponta Delgada 9500",
+                "phone": "+351 (296) 306400",
+                "website": "http://www.cdsantaclara.pt",
+                "email": "cdsantaclara@mail.telepac.pt",
+                "founded": 1921,
+                "clubColors": "Red / White",
+                "venue": "Cidade do Futebol",
+                "lastUpdated": "2020-11-19T02:15:50Z"
+            },
+            {
+                "id": 5531,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "FC Famalic\u00e3o",
+                "shortName": "Famalic\u00e3o",
+                "tla": "FAM",
+                "crestUrl": "https://crests.football-data.org/5531.svg",
+                "address": "null Vila Nova de Famalic\u00e3o null",
+                "phone": null,
+                "website": "http://www.fcfamalicao.pt",
+                "email": "fcfamalicao@gmail.com",
+                "founded": 1931,
+                "clubColors": "Blue / White",
+                "venue": "Est\u00e1dio Municipal 22 de Junho",
+                "lastUpdated": "2020-11-19T02:15:51Z"
+            },
+            {
+                "id": 5533,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Gil Vicente FC",
+                "shortName": "Gil Vicente",
+                "tla": "GIL",
+                "crestUrl": "https://crests.football-data.org/5533.svg",
+                "address": "Rua D. Diogo Pinheiro n.\u00ba 25, Apartado 197 Barcelos 4750-282",
+                "phone": "+351 (253) 811523",
+                "website": "http://www.gilvicentefc.pt",
+                "email": "geral@gilvicentefc.pt",
+                "founded": 1924,
+                "clubColors": "Red / Blue",
+                "venue": "Est\u00e1dio Cidade de Barcelos",
+                "lastUpdated": "2020-11-19T02:15:53Z"
+            },
+            {
+                "id": 5543,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Vit\u00f3ria SC",
+                "shortName": "Vit\u00f3ria SC",
+                "tla": "GUI",
+                "crestUrl": "https://crests.football-data.org/5543.svg",
+                "address": "Dr. Ant\u00f3nio Pimenta Machado, Apartado 505 Guimar\u00e3es 4802-914",
+                "phone": "+351 (253) 432570",
+                "website": "http://www.vitoriasc.pt",
+                "email": "vitoria@vitoriasc.pt",
+                "founded": 1922,
+                "clubColors": "White / Black",
+                "venue": "Est\u00e1dio Dom Afonso Henriques",
+                "lastUpdated": "2020-11-19T02:15:55Z"
+            },
+            {
+                "id": 5568,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Os Belenenses Futebol",
+                "shortName": "Belenenses",
+                "tla": "BEL",
+                "crestUrl": "https://crests.football-data.org/5568.svg",
+                "address": "Est\u00e1dio do Restelo Lisboa 1449-015",
+                "phone": "+351 (021) 3010461",
+                "website": "http://site.osbelenensessad.com/",
+                "email": "cfbelenenses@clix.pt",
+                "founded": 1999,
+                "clubColors": "Blue / White",
+                "venue": "Est\u00e1dio Nacional",
+                "lastUpdated": "2020-11-19T02:15:57Z"
+            },
+            {
+                "id": 5575,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "CS Mar\u00edtimo",
+                "shortName": "Mar\u00edtimo",
+                "tla": "CSM",
+                "crestUrl": "https://crests.football-data.org/5575.svg",
+                "address": "Rua Campo do Mar\u00edtimo, Santo Ant\u00f3nio Funchal 9020-073",
+                "phone": "+351 (291) 708300",
+                "website": "http://www.csmaritimo.org.pt",
+                "email": "csmaritimo@netmadeira.com",
+                "founded": 1910,
+                "clubColors": "Green / Red",
+                "venue": "Est\u00e1dio dos Barreiros",
+                "lastUpdated": "2020-11-19T02:15:59Z"
+            },
+            {
+                "id": 5601,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Portimonense SC",
+                "shortName": "Portimonense",
+                "tla": "PSC",
+                "crestUrl": "https://crests.football-data.org/5601.svg",
+                "address": "Pra\u00e7a Manuel Teixeira Gomes n.\u00ba 4 -1\u00ba Portim\u00e3o 8500-542",
+                "phone": "+351 (282) 422427",
+                "website": "http://www.portimonense.pt",
+                "email": "geral@portimonensesc.pt",
+                "founded": 1914,
+                "clubColors": "Black / White",
+                "venue": "Est\u00e1dio do Portimonense SC",
+                "lastUpdated": "2020-11-19T02:16:01Z"
+            },
+            {
+                "id": 5602,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "SC Farense",
+                "shortName": "Farense",
+                "tla": "FAR",
+                "crestUrl": "https://crests.football-data.org/5602.svg",
+                "address": "Pra\u00e7a de T\u00e2nger, Gin\u00e1sio Sede Faro 8005-445",
+                "phone": "+351 (289) 894020",
+                "website": "http://www.scfarense1910.blogspot.com",
+                "email": "sportingclubefarense@sapo.pt",
+                "founded": 1910,
+                "clubColors": "Black / White",
+                "venue": "Est\u00e1dio de S\u00e3o L\u00fais",
+                "lastUpdated": "2020-11-12T02:15:51Z"
+            },
+            {
+                "id": 5613,
+                "area": {
+                    "id": 2187,
+                    "name": "Portugal"
+                },
+                "name": "Sporting Clube de Braga",
+                "shortName": "Braga",
+                "tla": "SCB",
+                "crestUrl": "https://crests.football-data.org/5613.svg",
+                "address": "Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087",
+                "phone": "+351 (253) 206860",
+                "website": "http://www.scbraga.pt",
+                "email": "mail@scbraga.pt",
+                "founded": 1921,
+                "clubColors": "Red / White",
+                "venue": "Est\u00e1dio Municipal de Braga",
+                "lastUpdated": "2020-11-12T02:15:53Z"
+            }
+        ]
+    },
+    "2014": {
+        "count": 20,
+        "filters": {},
+        "competition": {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2020-12-08T03:05:05Z"
+        },
+        "season": {
+            "id": 635,
+            "startDate": "2020-09-13",
+            "endDate": "2021-05-23",
+            "currentMatchday": 12,
+            "winner": null,
+            "availableStages": [
+                "REGULAR_SEASON"
+            ]
+        },
+        "teams": [
+            {
+                "id": 77,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Athletic Club",
+                "shortName": "Athletic",
+                "tla": "ATH",
+                "crestUrl": "https://crests.football-data.org/77.svg",
+                "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+                "phone": "+34 (944) 240877",
+                "website": "http://www.athletic-club.eus",
+                "email": "prensa@athletic-club.net",
+                "founded": 1898,
+                "clubColors": "Red / White / Black",
+                "venue": "San Mam\u00e9s",
+                "lastUpdated": "2020-11-26T02:18:19Z"
+            },
+            {
+                "id": 78,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Club Atl\u00e9tico de Madrid",
+                "shortName": "Atleti",
+                "tla": "ATM",
+                "crestUrl": "https://crests.football-data.org/78.svg",
+                "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
+                "phone": "+34 (913) 669048",
+                "website": "http://www.clubatleticodemadrid.com",
+                "email": "comunicacion@clubatleticodemadrid.com",
+                "founded": 1903,
+                "clubColors": "Red / White / Blue",
+                "venue": "Estadio Wanda Metropolitano",
+                "lastUpdated": "2020-11-26T02:18:20Z"
+            },
+            {
+                "id": 79,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "CA Osasuna",
+                "shortName": "Osasuna",
+                "tla": "OSA",
+                "crestUrl": "https://crests.football-data.org/79.svg",
+                "address": "Calle del Sadar, s/n Pamplona 31006",
+                "phone": "+34 (948) 152636",
+                "website": "http://www.osasuna.es",
+                "email": "osasuna@osasuna.es",
+                "founded": 1920,
+                "clubColors": "Red / Navy Blue",
+                "venue": "Estadio El Sadar",
+                "lastUpdated": "2020-11-26T02:18:22Z"
+            },
+            {
+                "id": 81,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "FC Barcelona",
+                "shortName": "Bar\u00e7a",
+                "tla": "FCB",
+                "crestUrl": "https://crests.football-data.org/81.svg",
+                "address": "Avenida Ar\u00edstides Maillol s/n Barcelona 08028",
+                "phone": "+34 (902) 189900",
+                "website": "http://www.fcbarcelona.com",
+                "email": "secretaria@fcbarcelona.com",
+                "founded": 1899,
+                "clubColors": "Red / Navy Blue / Orange",
+                "venue": "Camp Nou",
+                "lastUpdated": "2020-11-26T02:18:23Z"
+            },
+            {
+                "id": 82,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Getafe CF",
+                "shortName": "Getafe",
+                "tla": "GET",
+                "crestUrl": "https://crests.football-data.org/82.svg",
+                "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
+                "phone": "+34 (916) 959643",
+                "website": "http://www.getafecf.com",
+                "email": "fsantos@getafecf.com",
+                "founded": 1946,
+                "clubColors": "Blue / White",
+                "venue": "Coliseum Alfonso P\u00e9rez",
+                "lastUpdated": "2020-11-26T02:18:26Z"
+            },
+            {
+                "id": 83,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Granada CF",
+                "shortName": "Granada",
+                "tla": "GRA",
+                "crestUrl": "https://crests.football-data.org/83.svg",
+                "address": "Calle del Pintor Manuel Maldonado, s/n Granada 18007",
+                "phone": "+34 (958) 253300",
+                "website": "http://www.granadacf.es",
+                "email": "secretaria@granadacf.es",
+                "founded": 1931,
+                "clubColors": "Red / White",
+                "venue": "Estadio Nuevo Los C\u00e1rmenes",
+                "lastUpdated": "2020-11-26T02:18:27Z"
+            },
+            {
+                "id": 86,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Real Madrid CF",
+                "shortName": "Real Madrid",
+                "tla": "RMA",
+                "crestUrl": "https://crests.football-data.org/86.svg",
+                "address": "Avenida Concha Espina, 1 Madrid 28036",
+                "phone": "+34 (913) 984300",
+                "website": "http://www.realmadrid.com",
+                "email": "atencionpublico@corp.realmadrid.com",
+                "founded": 1902,
+                "clubColors": "White / Purple",
+                "venue": "Estadio Alfredo Di St\u00e9fano",
+                "lastUpdated": "2020-11-26T02:18:30Z"
+            },
+            {
+                "id": 88,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Levante UD",
+                "shortName": "Levante",
+                "tla": "LEV",
+                "crestUrl": "https://crests.football-data.org/88.svg",
+                "address": "Calle San Vicente de Pa\u00fal, 44 Valencia 46019",
+                "phone": "+34 (902) 220304",
+                "website": "http://www.levanteud.com",
+                "email": "admon@levanteud.es",
+                "founded": 1909,
+                "clubColors": "Crimson / Blue",
+                "venue": "Estadio Ciudad de Valencia",
+                "lastUpdated": "2020-11-26T02:18:31Z"
+            },
+            {
+                "id": 90,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Real Betis Balompi\u00e9",
+                "shortName": "Real Betis",
+                "tla": "BET",
+                "crestUrl": "https://crests.football-data.org/90.svg",
+                "address": "Avenida de Heli\u00f3polis, s/n Sevilla 41012",
+                "phone": "+34 (902) 191907",
+                "website": "http://www.realbetisbalompie.es",
+                "email": "info@realbetisbalompie.es",
+                "founded": 1907,
+                "clubColors": "Green / White",
+                "venue": "Estadio Benito Villamar\u00edn",
+                "lastUpdated": "2020-11-26T02:18:33Z"
+            },
+            {
+                "id": 92,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Real Sociedad de F\u00fatbol",
+                "shortName": "Real Sociedad",
+                "tla": "RSO",
+                "crestUrl": "https://crests.football-data.org/92.svg",
+                "address": "Anoeta Pasalekua, 1 San Sebasti\u00e1n 20014",
+                "phone": "+34 (943) 462833",
+                "website": "http://www.realsociedad.com",
+                "email": "realsoc@realsociedad.com",
+                "founded": 1903,
+                "clubColors": "Blue / White",
+                "venue": "Estadio Municipal de Anoeta",
+                "lastUpdated": "2020-11-26T02:18:34Z"
+            },
+            {
+                "id": 94,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Villarreal CF",
+                "shortName": "Villarreal",
+                "tla": "VIL",
+                "crestUrl": "https://crests.football-data.org/94.svg",
+                "address": "Camino Miralcamp, s/n Villarreal 12540",
+                "phone": "+34 (964) 500250",
+                "website": "http://www.villarrealcf.es",
+                "email": "villarrealcf@villarrealcf.es",
+                "founded": 1923,
+                "clubColors": "Yellow / Blue",
+                "venue": "Estadio de la Cer\u00e1mica",
+                "lastUpdated": "2020-11-26T02:18:36Z"
+            },
+            {
+                "id": 95,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Valencia CF",
+                "shortName": "Valencia",
+                "tla": "VAL",
+                "crestUrl": "https://crests.football-data.org/95.svg",
+                "address": "Plaza del Valencia Club de F\u00fatbol, 2 Valencia 46010",
+                "phone": "+34 (902) 011919",
+                "website": "http://www.valenciacf.com",
+                "email": "informacion@valenciacf.es",
+                "founded": 1919,
+                "clubColors": "White / Orange / Black",
+                "venue": "Estadio de Mestalla",
+                "lastUpdated": "2020-11-26T02:18:38Z"
+            },
+            {
+                "id": 250,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Real Valladolid CF",
+                "shortName": "Valladolid",
+                "tla": "VLD",
+                "crestUrl": "https://crests.football-data.org/250.svg",
+                "address": "Avenida del Mundial, 82 Valladolid 47014",
+                "phone": "+34 (983) 360342",
+                "website": "http://www.realvalladolid.es",
+                "email": "realvalladolid@realvalladolid.es",
+                "founded": 1928,
+                "clubColors": "Violet / White",
+                "venue": "Estadio Municipal Jos\u00e9 Zorrilla",
+                "lastUpdated": "2020-11-26T02:18:39Z"
+            },
+            {
+                "id": 263,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Deportivo Alav\u00e9s",
+                "shortName": "Alav\u00e9s",
+                "tla": "ALA",
+                "crestUrl": "https://crests.football-data.org/263.svg",
+                "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+                "phone": "+34 (945) 131018",
+                "website": "http://www.alaves.com",
+                "email": "deportivoalavessad@alaves.com",
+                "founded": 1921,
+                "clubColors": "Blue / White",
+                "venue": "Estadio de Mendizorroza",
+                "lastUpdated": "2020-11-26T02:18:42Z"
+            },
+            {
+                "id": 264,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "C\u00e1diz CF",
+                "shortName": "C\u00e1diz CF",
+                "tla": "CAD",
+                "crestUrl": "https://crests.football-data.org/264.svg",
+                "address": "Plaza de Madrid, s/n C\u00e1diz 11010",
+                "phone": "+34 (956) 070165",
+                "website": "http://www.cadizcf.com",
+                "email": "infocadizcf@cadizcf.es",
+                "founded": 1910,
+                "clubColors": "Yellow / Blue",
+                "venue": "Estadio Ram\u00f3n de Carranza",
+                "lastUpdated": "2020-11-26T02:18:43Z"
+            },
+            {
+                "id": 278,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "SD Eibar",
+                "shortName": "Eibar",
+                "tla": "EIB",
+                "crestUrl": "https://crests.football-data.org/278.svg",
+                "address": "Ipurua Kalea, 2 Eibar 20600",
+                "phone": "+34 (943) 201831",
+                "website": "http://www.sdeibar.com",
+                "email": "sdeibar@sdeibar.com",
+                "founded": 1940,
+                "clubColors": "Red / Blue",
+                "venue": "Estadio Municipal de Ipur\u00faa",
+                "lastUpdated": "2020-11-26T02:18:45Z"
+            },
+            {
+                "id": 285,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crestUrl": "https://crests.football-data.org/285.svg",
+                "address": "Avenida Manuel Mart\u00ednez Valero, 3 Elche 03208",
+                "phone": "+34 (965) 459714",
+                "website": "http://www.elchecf.es",
+                "email": "info@elchecf.es",
+                "founded": 1923,
+                "clubColors": "White / Green",
+                "venue": "Estadio Manuel Mart\u00ednez Valero",
+                "lastUpdated": "2020-11-26T02:18:46Z"
+            },
+            {
+                "id": 299,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "SD Huesca",
+                "shortName": "Huesca",
+                "tla": "HUE",
+                "crestUrl": "https://crests.football-data.org/299.svg",
+                "address": "Calle Cocoron, s/n Huesca 22004",
+                "phone": "+34 (974) 212679",
+                "website": "http://www.sdhuesca.es",
+                "email": "info@sdhuesca.es",
+                "founded": 1910,
+                "clubColors": "Crimson / Navy Blue",
+                "venue": "Estadio El Alcoraz",
+                "lastUpdated": "2020-11-26T02:18:47Z"
+            },
+            {
+                "id": 558,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "RC Celta de Vigo",
+                "shortName": "Celta",
+                "tla": "CEL",
+                "crestUrl": "https://crests.football-data.org/558.svg",
+                "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
+                "phone": "+34 (986) 110900",
+                "website": "http://www.celtavigo.net",
+                "email": "comunicacion@celtavigo.net",
+                "founded": 1923,
+                "clubColors": "Sky Blue / White",
+                "venue": "Estadio de Bala\u00eddos",
+                "lastUpdated": "2020-11-26T02:18:49Z"
+            },
+            {
+                "id": 559,
+                "area": {
+                    "id": 2224,
+                    "name": "Spain"
+                },
+                "name": "Sevilla FC",
+                "shortName": "Sevilla FC",
+                "tla": "SEV",
+                "crestUrl": "https://crests.football-data.org/559.svg",
+                "address": "Calle Sevilla F\u00fatbol Club, s/n Sevilla 41005",
+                "phone": "+34 (902) 510011",
+                "website": "http://www.sevillafc.es",
+                "email": "sevillafc@sevillafc.es",
+                "founded": 1905,
+                "clubColors": "White / Red",
+                "venue": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+                "lastUpdated": "2020-11-19T02:13:58Z"
+            }
+        ]
+    }
+}
