@@ -21,7 +21,7 @@ node_modules
 # Logs
 *.log
 
-# PDFTeX Files
+# PDFTeX and TexStudio Files
 *-blx.bib
 *.aux
 *.bbl
@@ -31,5 +31,5 @@ node_modules
 *.fls
 *.out
 *.synctex.gz
-*.pdf
+*.txss
 *.xdv
