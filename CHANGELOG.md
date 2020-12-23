@@ -7,6 +7,7 @@ Changelog labels are any of the following:
 ## Version 0.0.2 (2020-12-22)
 
 - [ENHANCEMENT] EloXL.py can write league data to Excel book.
+- [CODEQUALITY] Elo calculation scripts are more Pythonic.
 
 ## Version 0.0.1 (2020-12-22)
 
